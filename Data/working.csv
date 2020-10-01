@@ -1,0 +1,609 @@
+season,baker,week,challenge,order_judged,placement,notes,sweet,week_id,order_judged_std,order_judged_prank,order_judged_quartile,order_judged_quartile_1,order_judged_quartile_2,order_judged_quartile_3,order_judged_quartile_4,order_judged_quartile_NA,placement_std,placement_prank,judged_first,judged_last,judged_middle,baker_id,bottom3,prue_years,week_out,week_out2
+the beginnings,cathryn,1,rum baba,5,5,NA,1,the beginnings1,-0.41602514716892186,0.36363636363636365,2,0,1,0,0,0,-0.03971584462772664,0.48679867986798675,0,0,1,cathryn_the beginnings,0,0,8,0
+the beginnings,ryan,1,rum baba,9,8,NA,1,the beginnings1,0.6933752452815365,0.7272727272727274,3,0,0,1,0,0,-1.0441957483373152,0.20792079207920788,0,0,0,ryan_the beginnings,0,0,7,0
+the beginnings,john,1,rum baba,8,11,NA,1,the beginnings1,0.41602514716892186,0.6363636363636365,3,0,0,1,0,0,-2.0486756520469034,0.04785478547854782,0,0,1,john_the beginnings,1,0,NA,0
+the beginnings,manisha,1,rum baba,6,6,NA,1,the beginnings1,-0.1386750490563073,0.4545454545454546,2,0,1,0,0,0,-0.3745424791975895,0.3795379537953796,0,0,1,manisha_the beginnings,0,0,5,0
+the beginnings,victoria,1,rum baba,7,4,NA,1,the beginnings1,0.1386750490563073,0.5454545454545455,3,0,0,1,0,0,0.2951107899421362,0.6039603960396039,0,0,1,victoria_the beginnings,0,0,3,0
+the beginnings,natasha,1,rum baba,11,12,NA,1,the beginnings1,1.2480754415067656,0.9090909090909093,4,0,0,0,1,0,-2.3835022866167663,0.018151815181518205,0,0,0,natasha_the beginnings,1,0,1,1
+the beginnings,stuart,1,rum baba,10,9,NA,1,the beginnings1,0.9707253433941511,0.8181818181818183,4,0,0,0,1,0,-1.379022382907178,0.14356435643564358,0,0,0,stuart_the beginnings,1,0,4,0
+the beginnings,brendan,1,rum baba,2,10,NA,1,the beginnings1,-1.2480754415067656,0.09090909090909091,1,1,0,0,0,0,-1.7138490174770407,0.08910891089108908,0,0,0,brendan_the beginnings,1,0,NA,0
+the beginnings,danny,1,rum baba,3,7,NA,1,the beginnings1,-0.9707253433941511,0.18181818181818182,1,1,0,0,0,0,-0.7093691137674523,0.28712871287128716,0,0,0,danny_the beginnings,0,0,9,0
+the beginnings,james,1,rum baba,12,2,NA,1,the beginnings1,1.52542553961938,1.0000000000000002,4,0,0,0,1,0,0.9647640590818618,0.8679867986798679,0,1,0,james_the beginnings,0,0,NA,0
+the beginnings,sarah-jane,1,rum baba,1,1,NA,1,the beginnings1,-1.52542553961938,0,1,1,0,0,0,0,1.2995906936517247,1,1,0,0,sarah-jane_the beginnings,0,0,7,0
+the beginnings,peter,1,rum baba,4,3,NA,1,the beginnings1,-0.6933752452815365,0.2727272727272727,2,0,1,0,0,0,0.629937424511999,0.7343234323432344,0,0,0,peter_the beginnings,0,0,2,0
+the beginnings,brendan,2,plaited loaf,2,4,NA,0,the beginnings2,-1.2060453783110545,0.1,1,1,0,0,0,0,0.2951107899421362,0.6039603960396039,0,0,0,brendan_the beginnings,0,0,NA,0
+the beginnings,cathryn,2,plaited loaf,9,8,NA,0,the beginnings2,0.9045340337332909,0.7999999999999999,3,0,0,1,0,0,-1.0441957483373152,0.20792079207920788,0,0,0,cathryn_the beginnings,0,0,8,0
+the beginnings,danny,2,plaited loaf,6,3,NA,0,the beginnings2,0,0.5,2,0,1,0,0,0,0.629937424511999,0.7343234323432344,0,0,1,danny_the beginnings,0,0,9,0
+the beginnings,james,2,plaited loaf,4,2,NA,0,the beginnings2,-0.6030226891555273,0.30000000000000004,2,0,1,0,0,0,0.9647640590818618,0.8679867986798679,0,0,0,james_the beginnings,0,0,NA,0
+the beginnings,john,2,plaited loaf,11,1,NA,0,the beginnings2,1.507556722888818,0.9999999999999999,4,0,0,0,1,0,1.2995906936517247,1,0,1,0,john_the beginnings,0,0,NA,0
+the beginnings,manisha,2,plaited loaf,5,6,NA,0,the beginnings2,-0.30151134457776363,0.4,2,0,1,0,0,0,-0.3745424791975895,0.3795379537953796,0,0,1,manisha_the beginnings,0,0,5,0
+the beginnings,peter,2,plaited loaf,7,11,NA,0,the beginnings2,0.30151134457776363,0.6,3,0,0,1,0,0,-2.0486756520469034,0.04785478547854782,0,0,1,peter_the beginnings,1,0,2,1
+the beginnings,ryan,2,plaited loaf,1,5,NA,0,the beginnings2,-1.507556722888818,0,1,1,0,0,0,0,-0.03971584462772664,0.48679867986798675,1,0,0,ryan_the beginnings,0,0,7,0
+the beginnings,sarah-jane,2,plaited loaf,3,10,NA,0,the beginnings2,-0.9045340337332909,0.2,1,1,0,0,0,0,-1.7138490174770407,0.08910891089108908,0,0,0,sarah-jane_the beginnings,1,0,7,0
+the beginnings,stuart,2,plaited loaf,10,9,NA,0,the beginnings2,1.2060453783110545,0.8999999999999999,4,0,0,0,1,0,-1.379022382907178,0.14356435643564358,0,0,0,stuart_the beginnings,1,0,4,0
+the beginnings,victoria,2,plaited loaf,8,7,NA,0,the beginnings2,0.6030226891555273,0.7,3,0,0,1,0,0,-0.7093691137674523,0.28712871287128716,0,0,1,victoria_the beginnings,0,0,3,0
+the beginnings,brendan,3,treacle tart,10,9,NA,1,the beginnings3,1.4863010829205867,1.0000000000000002,4,0,0,0,1,0,-1.379022382907178,0.14356435643564358,0,1,0,brendan_the beginnings,1,0,NA,0
+the beginnings,cathryn,3,treacle tart,3,3,NA,1,the beginnings3,-0.8257228238447705,0.2222222222222222,1,1,0,0,0,0,0.629937424511999,0.7343234323432344,0,0,0,cathryn_the beginnings,0,0,8,0
+the beginnings,danny,3,treacle tart,5,2,NA,1,the beginnings3,-0.1651445647689541,0.4444444444444444,2,0,1,0,0,0,0.9647640590818618,0.8679867986798679,0,0,1,danny_the beginnings,0,0,9,0
+the beginnings,james,3,treacle tart,1,1,NA,1,the beginnings3,-1.4863010829205867,0,1,1,0,0,0,0,1.2995906936517247,1,1,0,0,james_the beginnings,0,0,NA,0
+the beginnings,john,3,treacle tart,6,6,NA,1,the beginnings3,0.1651445647689541,0.5555555555555556,3,0,0,1,0,0,-0.3745424791975895,0.3795379537953796,0,0,1,john_the beginnings,0,0,NA,0
+the beginnings,manisha,3,treacle tart,9,10,NA,1,the beginnings3,1.1560119533826787,0.8888888888888891,4,0,0,0,1,0,-1.7138490174770407,0.08910891089108908,0,0,0,manisha_the beginnings,1,0,5,0
+the beginnings,ryan,3,treacle tart,8,5,NA,1,the beginnings3,0.8257228238447705,0.7777777777777779,3,0,0,1,0,0,-0.03971584462772664,0.48679867986798675,0,0,0,ryan_the beginnings,0,0,7,0
+the beginnings,sarah-jane,3,treacle tart,7,8,NA,1,the beginnings3,0.49543369430686224,0.6666666666666667,3,0,0,1,0,0,-1.0441957483373152,0.20792079207920788,0,0,1,sarah-jane_the beginnings,1,0,7,0
+the beginnings,stuart,3,treacle tart,4,7,NA,1,the beginnings3,-0.49543369430686224,0.3333333333333333,2,0,1,0,0,0,-0.7093691137674523,0.28712871287128716,0,0,0,stuart_the beginnings,0,0,4,0
+the beginnings,victoria,3,treacle tart,2,4,NA,1,the beginnings3,-1.1560119533826787,0.1111111111111111,1,1,0,0,0,0,0.2951107899421362,0.6039603960396039,0,0,0,victoria_the beginnings,0,0,3,1
+the beginnings,brendan,4,creme caramel,4,1,NA,1,the beginnings4,-0.3651483716701107,0.375,2,0,1,0,0,0,1.2995906936517247,1,0,0,1,brendan_the beginnings,0,0,NA,0
+the beginnings,cathryn,4,creme caramel,7,3,NA,1,the beginnings4,0.7302967433402214,0.75,3,0,0,1,0,0,0.629937424511999,0.7343234323432344,0,0,0,cathryn_the beginnings,0,0,8,0
+the beginnings,danny,4,creme caramel,3,2,NA,1,the beginnings4,-0.7302967433402214,0.25,1,1,0,0,0,0,0.9647640590818618,0.8679867986798679,0,0,0,danny_the beginnings,0,0,9,0
+the beginnings,james,4,creme caramel,2,5,NA,1,the beginnings4,-1.0954451150103321,0.125,1,1,0,0,0,0,-0.03971584462772664,0.48679867986798675,0,0,0,james_the beginnings,0,0,NA,0
+the beginnings,john,4,creme caramel,8,6,NA,1,the beginnings4,1.0954451150103321,0.875,4,0,0,0,1,0,-0.3745424791975895,0.3795379537953796,0,0,0,john_the beginnings,0,0,NA,0
+the beginnings,manisha,4,creme caramel,9,9,NA,1,the beginnings4,1.4605934866804429,1,4,0,0,0,1,0,-1.379022382907178,0.14356435643564358,0,1,0,manisha_the beginnings,1,0,5,0
+the beginnings,ryan,4,creme caramel,1,7,NA,1,the beginnings4,-1.4605934866804429,0,1,1,0,0,0,0,-0.7093691137674523,0.28712871287128716,1,0,0,ryan_the beginnings,1,0,7,0
+the beginnings,sarah-jane,4,creme caramel,5,4,NA,1,the beginnings4,0,0.5,2,0,1,0,0,0,0.2951107899421362,0.6039603960396039,0,0,1,sarah-jane_the beginnings,0,0,7,0
+the beginnings,stuart,4,creme caramel,6,8,NA,1,the beginnings4,0.3651483716701107,0.625,3,0,0,1,0,0,-1.0441957483373152,0.20792079207920788,0,0,1,stuart_the beginnings,1,0,4,1
+the beginnings,brendan,5,hand-raised pie,5,3,NA,0,the beginnings5,0.20412414523193154,0.5714285714285714,3,0,0,1,0,0,0.629937424511999,0.7343234323432344,0,0,1,brendan_the beginnings,0,0,NA,0
+the beginnings,cathryn,5,hand-raised pie,4,1,NA,0,the beginnings5,-0.20412414523193154,0.42857142857142855,2,0,1,0,0,0,1.2995906936517247,1,0,0,1,cathryn_the beginnings,0,0,8,0
+the beginnings,danny,5,hand-raised pie,3,7,NA,0,the beginnings5,-0.6123724356957946,0.2857142857142857,2,0,1,0,0,0,-0.7093691137674523,0.28712871287128716,0,0,0,danny_the beginnings,1,0,9,0
+the beginnings,james,5,hand-raised pie,2,6,NA,0,the beginnings5,-1.0206207261596576,0.14285714285714285,1,1,0,0,0,0,-0.3745424791975895,0.3795379537953796,0,0,0,james_the beginnings,0,0,NA,0
+the beginnings,john,5,hand-raised pie,8,2,NA,0,the beginnings5,1.4288690166235207,0.9999999999999998,4,0,0,0,1,0,0.9647640590818618,0.8679867986798679,0,1,0,john_the beginnings,0,0,NA,0
+the beginnings,manisha,5,hand-raised pie,7,5,NA,0,the beginnings5,1.0206207261596576,0.857142857142857,4,0,0,0,1,0,-0.03971584462772664,0.48679867986798675,0,0,0,manisha_the beginnings,0,0,5,1
+the beginnings,ryan,5,hand-raised pie,1,8,NA,0,the beginnings5,-1.4288690166235207,0,1,1,0,0,0,0,-1.0441957483373152,0.20792079207920788,1,0,0,ryan_the beginnings,1,0,7,0
+the beginnings,sarah-jane,5,hand-raised pie,6,4,NA,0,the beginnings5,0.6123724356957946,0.7142857142857142,3,0,0,1,0,0,0.2951107899421362,0.6039603960396039,0,0,1,sarah-jane_the beginnings,0,0,7,0
+the beginnings,brendan,6,queen of puddings,1,1,NA,1,the beginnings6,-1.3887301496588271,0,1,1,0,0,0,0,1.2995906936517247,1,1,0,0,brendan_the beginnings,0,0,NA,0
+the beginnings,cathryn,6,queen of puddings,4,3,NA,1,the beginnings6,0,0.5,2,0,1,0,0,0,0.629937424511999,0.7343234323432344,0,0,1,cathryn_the beginnings,0,0,8,0
+the beginnings,danny,6,queen of puddings,7,2,NA,1,the beginnings6,1.3887301496588271,0.9999999999999999,4,0,0,0,1,0,0.9647640590818618,0.8679867986798679,0,1,0,danny_the beginnings,0,0,9,0
+the beginnings,james,6,queen of puddings,5,7,NA,1,the beginnings6,0.4629100498862757,0.6666666666666666,3,0,0,1,0,0,-0.7093691137674523,0.28712871287128716,0,0,1,james_the beginnings,1,0,NA,0
+the beginnings,john,6,queen of puddings,6,5,NA,1,the beginnings6,0.9258200997725514,0.8333333333333333,3,0,0,1,0,0,-0.03971584462772664,0.48679867986798675,0,0,0,john_the beginnings,0,0,NA,0
+the beginnings,ryan,6,queen of puddings,3,6,NA,1,the beginnings6,-0.4629100498862757,0.3333333333333333,2,0,1,0,0,0,-0.3745424791975895,0.3795379537953796,0,0,0,ryan_the beginnings,1,0,7,0
+the beginnings,sarah-jane,6,queen of puddings,2,4,NA,1,the beginnings6,-0.9258200997725514,0.16666666666666666,1,1,0,0,0,0,0.2951107899421362,0.6039603960396039,0,0,0,sarah-jane_the beginnings,0,0,7,0
+the beginnings,brendan,7,jam doughnut,3,4,NA,1,the beginnings7,-0.595974756160385,0.3333333333333333,2,0,1,0,0,0,0.2951107899421362,0.6039603960396039,0,0,0,brendan_the beginnings,0,0,NA,0
+the beginnings,cathryn,7,jam doughnut,2,5,NA,1,the beginnings7,-0.9752314191715392,0.16666666666666666,1,1,0,0,0,0,-0.03971584462772664,0.48679867986798675,0,0,0,cathryn_the beginnings,0,0,8,0
+the beginnings,danny,7,jam doughnut,6,2,NA,1,the beginnings7,0.5417952328730775,0.6666666666666666,3,0,0,1,0,0,0.9647640590818618,0.8679867986798679,0,0,1,danny_the beginnings,0,0,9,0
+the beginnings,james,7,jam doughnut,7,1,NA,1,the beginnings7,0.9210518958842316,0.8333333333333333,3,0,0,1,0,0,1.2995906936517247,1,0,0,0,james_the beginnings,0,0,NA,0
+the beginnings,john,7,jam doughnut,5,3,NA,1,the beginnings7,0.1625385698619233,0.5,2,0,1,0,0,0,0.629937424511999,0.7343234323432344,0,0,1,john_the beginnings,0,0,NA,0
+the beginnings,ryan,7,jam doughnut,1,6,NA,1,the beginnings7,-1.3544880821826935,0,1,1,0,0,0,0,-0.3745424791975895,0.3795379537953796,1,0,0,ryan_the beginnings,1,0,7,1
+the beginnings,sarah-jane,7,jam doughnut,8,7,NA,1,the beginnings7,1.3003085588953858,0.9999999999999999,4,0,0,0,1,0,-0.7093691137674523,0.28712871287128716,0,1,0,sarah-jane_the beginnings,1,0,7,1
+the beginnings,brendan,8,chocolate teacakes,3,2,NA,1,the beginnings8,0,0.5,2,0,1,0,0,0,0.9647640590818618,0.8679867986798679,0,0,1,brendan_the beginnings,0,0,NA,0
+the beginnings,cathryn,8,chocolate teacakes,2,5,NA,1,the beginnings8,-0.6324555320336759,0.25,1,1,0,0,0,0,-0.03971584462772664,0.48679867986798675,0,0,0,cathryn_the beginnings,1,0,8,1
+the beginnings,danny,8,chocolate teacakes,1,4,NA,1,the beginnings8,-1.2649110640673518,0,1,1,0,0,0,0,0.2951107899421362,0.6039603960396039,1,0,0,danny_the beginnings,0,0,9,0
+the beginnings,james,8,chocolate teacakes,5,1,NA,1,the beginnings8,1.2649110640673518,1,4,0,0,0,1,0,1.2995906936517247,1,0,1,0,james_the beginnings,0,0,NA,0
+the beginnings,john,8,chocolate teacakes,4,3,NA,1,the beginnings8,0.6324555320336759,0.75,3,0,0,1,0,0,0.629937424511999,0.7343234323432344,0,0,1,john_the beginnings,0,0,NA,0
+the beginnings,brendan,9,fraisier cake,2,3,NA,1,the beginnings9,-0.3872983346207417,0.3333333333333333,2,0,1,0,0,0,0.629937424511999,0.7343234323432344,0,0,0,brendan_the beginnings,0,0,NA,0
+the beginnings,danny,9,fraisier cake,3,4,NA,1,the beginnings9,0.3872983346207417,0.6666666666666666,3,0,0,1,0,0,0.2951107899421362,0.6039603960396039,0,0,1,danny_the beginnings,1,0,9,1
+the beginnings,james,9,fraisier cake,4,1,NA,1,the beginnings9,1.161895003862225,1,4,0,0,0,1,0,1.2995906936517247,1,0,1,0,james_the beginnings,0,0,NA,0
+the beginnings,john,9,fraisier cake,1,2,NA,1,the beginnings9,-1.161895003862225,0,1,1,0,0,0,0,0.9647640590818618,0.8679867986798679,1,0,0,john_the beginnings,0,0,NA,0
+the beginnings,brendan,10,fondant fancies,1,2,both brendan and john came second,1,the beginnings10,-1,0,1,1,0,0,0,0,0.9647640590818618,0.8679867986798679,1,0,0,brendan_the beginnings,0,0,NA,0
+the beginnings,james,10,fondant fancies,3,1,NA,1,the beginnings10,1,1,3,0,0,1,0,0,1.2995906936517247,1,0,1,0,james_the beginnings,0,0,NA,0
+the beginnings,john,10,fondant fancies,2,2,NA,1,the beginnings10,0,0.5,2,0,1,0,0,0,0.9647640590818618,0.8679867986798679,0,0,1,john_the beginnings,1,0,NA,0
+collection 2,ali,1,angel food cake,8,11,NA,1,collection 21,0.25677629550654774,0.5833333333333333,3,0,0,1,0,0,-2.0486756520469034,0.04785478547854782,0,0,1,ali_collection 2,1,0,4,0
+collection 2,beca,1,angel food cake,4,8,NA,1,collection 21,-0.7703288865196433,0.25,1,1,0,0,0,0,-1.0441957483373152,0.20792079207920788,0,0,0,beca_collection 2,0,0,9,0
+collection 2,christine,1,angel food cake,1,3,NA,1,collection 21,-1.5406577730392865,0,1,1,0,0,0,0,0.629937424511999,0.7343234323432344,1,0,0,christine_collection 2,0,0,8,0
+collection 2,deborah,1,angel food cake,12,9,NA,1,collection 21,1.2838814775327387,0.9166666666666667,4,0,0,0,1,0,-1.379022382907178,0.14356435643564358,0,0,0,deborah_collection 2,0,0,3,0
+collection 2,frances,1,angel food cake,5,7,NA,1,collection 21,-0.5135525910130955,0.3333333333333333,2,0,1,0,0,0,-0.7093691137674523,0.28712871287128716,0,0,0,frances_collection 2,0,0,NA,0
+collection 2,glenn,1,angel food cake,10,4,NA,1,collection 21,0.7703288865196433,0.75,3,0,0,1,0,0,0.2951107899421362,0.6039603960396039,0,0,0,glenn_collection 2,0,0,7,0
+collection 2,howard,1,angel food cake,11,6,NA,1,collection 21,1.027105182026191,0.8333333333333334,4,0,0,0,1,0,-0.3745424791975895,0.3795379537953796,0,0,0,howard_collection 2,0,0,6,0
+collection 2,kimberley,1,angel food cake,9,10,NA,1,collection 21,0.5135525910130955,0.6666666666666666,3,0,0,1,0,0,-1.7138490174770407,0.08910891089108908,0,0,1,kimberley_collection 2,1,0,NA,0
+collection 2,lucy,1,angel food cake,7,2,NA,1,collection 21,0,0.49999999999999994,2,0,1,0,0,0,0.9647640590818618,0.8679867986798679,0,0,1,lucy_collection 2,0,0,2,0
+collection 2,mark,1,angel food cake,6,5,NA,1,collection 21,-0.25677629550654774,0.41666666666666663,2,0,1,0,0,0,-0.03971584462772664,0.48679867986798675,0,0,1,mark_collection 2,0,0,3,0
+collection 2,robert,1,angel food cake,2,1,NA,1,collection 21,-1.2838814775327387,0.08333333333333333,1,1,0,0,0,0,1.2995906936517247,1,0,0,0,robert_collection 2,0,0,5,0
+collection 2,ruby,1,angel food cake,3,12,NA,1,collection 21,-1.027105182026191,0.16666666666666666,1,1,0,0,0,0,-2.3835022866167663,0.018151815181518205,0,0,0,ruby_collection 2,1,0,NA,0
+collection 2,toby,1,angel food cake,13,13,NA,1,collection 21,1.5406577730392865,1,4,0,0,0,1,0,-2.7183289211866293,0.0016501650165016146,0,1,0,toby_collection 2,1,0,1,1
+collection 2,ali,2,english muffins,7,9,NA,0,collection 22,0.1386750490563073,0.5454545454545455,3,0,0,1,0,0,-1.379022382907178,0.14356435643564358,0,0,1,ali_collection 2,1,0,4,0
+collection 2,beca,2,english muffins,6,11,NA,0,collection 22,-0.1386750490563073,0.4545454545454546,2,0,1,0,0,0,-2.0486756520469034,0.04785478547854782,0,0,1,beca_collection 2,1,0,9,0
+collection 2,christine,2,english muffins,5,4,NA,0,collection 22,-0.41602514716892186,0.36363636363636365,2,0,1,0,0,0,0.2951107899421362,0.6039603960396039,0,0,1,christine_collection 2,0,0,8,0
+collection 2,deborah,2,english muffins,11,8,NA,0,collection 22,1.2480754415067656,0.9090909090909093,4,0,0,0,1,0,-1.0441957483373152,0.20792079207920788,0,0,0,deborah_collection 2,0,0,3,0
+collection 2,frances,2,english muffins,3,2,NA,0,collection 22,-0.9707253433941511,0.18181818181818182,1,1,0,0,0,0,0.9647640590818618,0.8679867986798679,0,0,0,frances_collection 2,0,0,NA,0
+collection 2,glenn,2,english muffins,4,7,NA,0,collection 22,-0.6933752452815365,0.2727272727272727,2,0,1,0,0,0,-0.7093691137674523,0.28712871287128716,0,0,0,glenn_collection 2,0,0,7,0
+collection 2,howard,2,english muffins,9,10,NA,0,collection 22,0.6933752452815365,0.7272727272727274,3,0,0,1,0,0,-1.7138490174770407,0.08910891089108908,0,0,0,howard_collection 2,1,0,6,0
+collection 2,kimberley,2,english muffins,10,1,NA,0,collection 22,0.9707253433941511,0.8181818181818183,4,0,0,0,1,0,1.2995906936517247,1,0,0,0,kimberley_collection 2,0,0,NA,0
+collection 2,lucy,2,english muffins,1,12,NA,0,collection 22,-1.52542553961938,0,1,1,0,0,0,0,-2.3835022866167663,0.018151815181518205,1,0,0,lucy_collection 2,1,0,2,1
+collection 2,mark,2,english muffins,2,6,NA,0,collection 22,-1.2480754415067656,0.09090909090909091,1,1,0,0,0,0,-0.3745424791975895,0.3795379537953796,0,0,0,mark_collection 2,0,0,3,0
+collection 2,robert,2,english muffins,8,5,NA,0,collection 22,0.41602514716892186,0.6363636363636365,3,0,0,1,0,0,-0.03971584462772664,0.48679867986798675,0,0,1,robert_collection 2,0,0,5,0
+collection 2,ruby,2,english muffins,12,3,NA,0,collection 22,1.52542553961938,1.0000000000000002,4,0,0,0,1,0,0.629937424511999,0.7343234323432344,0,1,0,ruby_collection 2,0,0,NA,0
+collection 2,ali,3,floating islands,5,5,NA,1,collection 23,-0.30151134457776363,0.4,2,0,1,0,0,0,-0.03971584462772664,0.48679867986798675,0,0,1,ali_collection 2,0,0,4,0
+collection 2,beca,3,floating islands,9,10,NA,1,collection 23,0.9045340337332909,0.7999999999999999,3,0,0,1,0,0,-1.7138490174770407,0.08910891089108908,0,0,0,beca_collection 2,1,0,9,0
+collection 2,christine,3,floating islands,7,4,NA,1,collection 23,0.30151134457776363,0.6,3,0,0,1,0,0,0.2951107899421362,0.6039603960396039,0,0,1,christine_collection 2,0,0,8,0
+collection 2,deborah,3,floating islands,1,9,NA,1,collection 23,-1.507556722888818,0,1,1,0,0,0,0,-1.379022382907178,0.14356435643564358,1,0,0,deborah_collection 2,1,0,3,1
+collection 2,frances,3,floating islands,4,8,NA,1,collection 23,-0.6030226891555273,0.30000000000000004,2,0,1,0,0,0,-1.0441957483373152,0.20792079207920788,0,0,0,frances_collection 2,0,0,NA,0
+collection 2,glenn,3,floating islands,2,1,NA,1,collection 23,-1.2060453783110545,0.1,1,1,0,0,0,0,1.2995906936517247,1,0,0,0,glenn_collection 2,0,0,7,0
+collection 2,howard,3,floating islands,6,7,NA,1,collection 23,0,0.5,2,0,1,0,0,0,-0.7093691137674523,0.28712871287128716,0,0,1,howard_collection 2,0,0,6,0
+collection 2,kimberley,3,floating islands,8,6,NA,1,collection 23,0.6030226891555273,0.7,3,0,0,1,0,0,-0.3745424791975895,0.3795379537953796,0,0,1,kimberley_collection 2,0,0,NA,0
+collection 2,mark,3,floating islands,10,11,NA,1,collection 23,1.2060453783110545,0.8999999999999999,4,0,0,0,1,0,-2.0486756520469034,0.04785478547854782,0,0,0,mark_collection 2,1,0,3,1
+collection 2,robert,3,floating islands,11,2,NA,1,collection 23,1.507556722888818,0.9999999999999999,4,0,0,0,1,0,0.9647640590818618,0.8679867986798679,0,1,0,robert_collection 2,0,0,5,0
+collection 2,ruby,3,floating islands,3,3,NA,1,collection 23,-0.9045340337332909,0.2,1,1,0,0,0,0,0.629937424511999,0.7343234323432344,0,0,0,ruby_collection 2,0,0,NA,0
+collection 2,ali,4,egg custard tarts,6,8,NA,1,collection 24,0.3651483716701107,0.625,3,0,0,1,0,0,-1.0441957483373152,0.20792079207920788,0,0,1,ali_collection 2,1,0,4,1
+collection 2,beca,4,egg custard tarts,2,2,NA,1,collection 24,-1.0954451150103321,0.125,1,1,0,0,0,0,0.9647640590818618,0.8679867986798679,0,0,0,beca_collection 2,0,0,9,0
+collection 2,christine,4,egg custard tarts,3,7,NA,1,collection 24,-0.7302967433402214,0.25,1,1,0,0,0,0,-0.7093691137674523,0.28712871287128716,0,0,0,christine_collection 2,1,0,8,0
+collection 2,frances,4,egg custard tarts,1,1,NA,1,collection 24,-1.4605934866804429,0,1,1,0,0,0,0,1.2995906936517247,1,1,0,0,frances_collection 2,0,0,NA,0
+collection 2,glenn,4,egg custard tarts,7,9,NA,1,collection 24,0.7302967433402214,0.75,3,0,0,1,0,0,-1.379022382907178,0.14356435643564358,0,0,0,glenn_collection 2,1,0,7,0
+collection 2,howard,4,egg custard tarts,4,5,NA,1,collection 24,-0.3651483716701107,0.375,2,0,1,0,0,0,-0.03971584462772664,0.48679867986798675,0,0,1,howard_collection 2,0,0,6,0
+collection 2,kimberley,4,egg custard tarts,9,4,NA,1,collection 24,1.4605934866804429,1,4,0,0,0,1,0,0.2951107899421362,0.6039603960396039,0,1,0,kimberley_collection 2,0,0,NA,0
+collection 2,robert,4,egg custard tarts,5,3,NA,1,collection 24,0,0.5,2,0,1,0,0,0,0.629937424511999,0.7343234323432344,0,0,1,robert_collection 2,0,0,5,0
+collection 2,ruby,4,egg custard tarts,8,6,NA,1,collection 24,1.0954451150103321,0.875,4,0,0,0,1,0,-0.3745424791975895,0.3795379537953796,0,0,0,ruby_collection 2,0,0,NA,0
+collection 2,beca,5,tuiles,8,5,NA,1,collection 25,1.4288690166235207,0.9999999999999998,4,0,0,0,1,0,-0.03971584462772664,0.48679867986798675,0,1,0,beca_collection 2,0,0,9,0
+collection 2,christine,5,tuiles,3,1,NA,1,collection 25,-0.6123724356957946,0.2857142857142857,2,0,1,0,0,0,1.2995906936517247,1,0,0,0,christine_collection 2,0,0,8,0
+collection 2,frances,5,tuiles,4,3,NA,1,collection 25,-0.20412414523193154,0.42857142857142855,2,0,1,0,0,0,0.629937424511999,0.7343234323432344,0,0,1,frances_collection 2,0,0,NA,0
+collection 2,glenn,5,tuiles,1,2,NA,1,collection 25,-1.4288690166235207,0,1,1,0,0,0,0,0.9647640590818618,0.8679867986798679,1,0,0,glenn_collection 2,0,0,7,0
+collection 2,howard,5,tuiles,6,8,NA,1,collection 25,0.6123724356957946,0.7142857142857142,3,0,0,1,0,0,-1.0441957483373152,0.20792079207920788,0,0,1,howard_collection 2,1,0,6,0
+collection 2,kimberley,5,tuiles,2,7,NA,1,collection 25,-1.0206207261596576,0.14285714285714285,1,1,0,0,0,0,-0.7093691137674523,0.28712871287128716,0,0,0,kimberley_collection 2,1,0,NA,0
+collection 2,robert,5,tuiles,5,4,NA,1,collection 25,0.20412414523193154,0.5714285714285714,3,0,0,1,0,0,0.2951107899421362,0.6039603960396039,0,0,1,robert_collection 2,0,0,5,1
+collection 2,ruby,5,tuiles,7,6,NA,1,collection 25,1.0206207261596576,0.857142857142857,4,0,0,0,1,0,-0.3745424791975895,0.3795379537953796,0,0,0,ruby_collection 2,0,0,NA,0
+collection 2,beca,6,apricot couronne,7,6,NA,1,collection 26,1.3887301496588271,0.9999999999999999,4,0,0,0,1,0,-0.3745424791975895,0.3795379537953796,0,1,0,beca_collection 2,1,0,9,0
+collection 2,christine,6,apricot couronne,2,4,NA,1,collection 26,-0.9258200997725514,0.16666666666666666,1,1,0,0,0,0,0.2951107899421362,0.6039603960396039,0,0,0,christine_collection 2,0,0,8,0
+collection 2,frances,6,apricot couronne,1,2,NA,1,collection 26,-1.3887301496588271,0,1,1,0,0,0,0,0.9647640590818618,0.8679867986798679,1,0,0,frances_collection 2,0,0,NA,0
+collection 2,glenn,6,apricot couronne,3,5,NA,1,collection 26,-0.4629100498862757,0.3333333333333333,2,0,1,0,0,0,-0.03971584462772664,0.48679867986798675,0,0,0,glenn_collection 2,0,0,7,0
+collection 2,howard,6,apricot couronne,5,7,NA,1,collection 26,0.4629100498862757,0.6666666666666666,3,0,0,1,0,0,-0.7093691137674523,0.28712871287128716,0,0,1,howard_collection 2,1,0,6,1
+collection 2,kimberley,6,apricot couronne,4,3,NA,1,collection 26,0,0.5,2,0,1,0,0,0,0.629937424511999,0.7343234323432344,0,0,1,kimberley_collection 2,0,0,NA,0
+collection 2,ruby,6,apricot couronne,6,1,NA,1,collection 26,0.9258200997725514,0.8333333333333333,3,0,0,1,0,0,1.2995906936517247,1,0,0,0,ruby_collection 2,0,0,NA,0
+collection 2,beca,7,religieuses,2,1,NA,1,collection 27,-0.8017837257372732,0.2,1,1,0,0,0,0,1.2995906936517247,1,0,0,0,beca_collection 2,0,0,9,0
+collection 2,christine,7,religieuses,4,6,NA,1,collection 27,0.2672612419124244,0.6000000000000001,3,0,0,1,0,0,-0.3745424791975895,0.3795379537953796,0,0,1,christine_collection 2,1,0,8,0
+collection 2,frances,7,religieuses,3,5,NA,1,collection 27,-0.2672612419124244,0.4,2,0,1,0,0,0,-0.03971584462772664,0.48679867986798675,0,0,1,frances_collection 2,1,0,NA,0
+collection 2,glenn,7,religieuses,1,3,NA,1,collection 27,-1.3363062095621219,0,1,1,0,0,0,0,0.629937424511999,0.7343234323432344,1,0,0,glenn_collection 2,0,0,7,1
+collection 2,kimberley,7,religieuses,5,4,NA,1,collection 27,0.8017837257372732,0.8,3,0,0,1,0,0,0.2951107899421362,0.6039603960396039,0,0,0,kimberley_collection 2,0,0,NA,0
+collection 2,ruby,7,religieuses,6,2,NA,1,collection 27,1.3363062095621219,1,4,0,0,0,1,0,0.9647640590818618,0.8679867986798679,0,1,0,ruby_collection 2,0,0,NA,0
+collection 2,beca,8,hazelnut dacquoise,4,4,NA,1,collection 28,0.6324555320336759,0.75,3,0,0,1,0,0,0.2951107899421362,0.6039603960396039,0,0,1,beca_collection 2,0,0,9,0
+collection 2,christine,8,hazelnut dacquoise,3,5,NA,1,collection 28,0,0.5,2,0,1,0,0,0,-0.03971584462772664,0.48679867986798675,0,0,1,christine_collection 2,1,0,8,1
+collection 2,frances,8,hazelnut dacquoise,2,3,NA,1,collection 28,-0.6324555320336759,0.25,1,1,0,0,0,0,0.629937424511999,0.7343234323432344,0,0,0,frances_collection 2,0,0,NA,0
+collection 2,kimberley,8,hazelnut dacquoise,5,2,NA,1,collection 28,1.2649110640673518,1,4,0,0,0,1,0,0.9647640590818618,0.8679867986798679,0,1,0,kimberley_collection 2,0,0,NA,0
+collection 2,ruby,8,hazelnut dacquoise,1,1,NA,1,collection 28,-1.2649110640673518,0,1,1,0,0,0,0,1.2995906936517247,1,1,0,0,ruby_collection 2,0,0,NA,0
+collection 2,beca,9,charlotte royal,3,3,NA,1,collection 29,0.3872983346207417,0.6666666666666666,3,0,0,1,0,0,0.629937424511999,0.7343234323432344,0,0,1,beca_collection 2,0,0,9,1
+collection 2,frances,9,charlotte royal,1,2,NA,1,collection 29,-1.161895003862225,0,1,1,0,0,0,0,0.9647640590818618,0.8679867986798679,1,0,0,frances_collection 2,0,0,NA,0
+collection 2,kimberley,9,charlotte royal,2,1,NA,1,collection 29,-0.3872983346207417,0.3333333333333333,2,0,1,0,0,0,1.2995906936517247,1,0,0,0,kimberley_collection 2,0,0,NA,0
+collection 2,ruby,9,charlotte royal,4,4,NA,1,collection 29,1.161895003862225,1,4,0,0,0,1,0,0.2951107899421362,0.6039603960396039,0,1,0,ruby_collection 2,1,0,NA,0
+collection 2,frances,10,pretzel,2,3,NA,0,collection 210,0,0.5,2,0,1,0,0,0,0.629937424511999,0.7343234323432344,0,0,1,frances_collection 2,1,0,NA,0
+collection 2,kimberley,10,pretzel,3,2,NA,0,collection 210,1,1,3,0,0,1,0,0,0.9647640590818618,0.8679867986798679,0,1,0,kimberley_collection 2,0,0,NA,0
+collection 2,ruby,10,pretzel,1,1,NA,0,collection 210,-1,0,1,1,0,0,0,0,1.2995906936517247,1,1,0,0,ruby_collection 2,0,0,NA,0
+collection 1,chetna,1,cherry cake,5,3,NA,1,collection 11,-0.41602514716892186,0.36363636363636365,2,0,1,0,0,0,0.629937424511999,0.7343234323432344,0,0,1,chetna_collection 1,0,0,9,0
+collection 1,claire,1,cherry cake,8,8,NA,1,collection 11,0.41602514716892186,0.6363636363636365,3,0,0,1,0,0,-1.0441957483373152,0.20792079207920788,0,0,1,claire_collection 1,0,0,1,1
+collection 1,diana,1,cherry cake,4,5,NA,1,collection 11,-0.6933752452815365,0.2727272727272727,2,0,1,0,0,0,-0.03971584462772664,0.48679867986798675,0,0,0,diana_collection 1,0,0,4,0
+collection 1,enwezor,1,cherry cake,3,9,NA,1,collection 11,-0.9707253433941511,0.18181818181818182,1,1,0,0,0,0,-1.379022382907178,0.14356435643564358,0,0,0,enwezor_collection 1,1,0,2,0
+collection 1,iain,1,cherry cake,9,4,NA,1,collection 11,0.6933752452815365,0.7272727272727274,3,0,0,1,0,0,0.2951107899421362,0.6039603960396039,0,0,0,iain_collection 1,0,0,4,0
+collection 1,jordan,1,cherry cake,10,12,NA,1,collection 11,0.9707253433941511,0.8181818181818183,4,0,0,0,1,0,-2.3835022866167663,0.018151815181518205,0,0,0,jordan_collection 1,1,0,3,0
+collection 1,kate,1,cherry cake,2,6,NA,1,collection 11,-1.2480754415067656,0.09090909090909091,1,1,0,0,0,0,-0.3745424791975895,0.3795379537953796,0,0,0,kate_collection 1,0,0,7,0
+collection 1,luis,1,cherry cake,11,7,NA,1,collection 11,1.2480754415067656,0.9090909090909093,4,0,0,0,1,0,-0.7093691137674523,0.28712871287128716,0,0,0,luis_collection 1,0,0,NA,0
+collection 1,martha,1,cherry cake,1,2,NA,1,collection 11,-1.52542553961938,0,1,1,0,0,0,0,0.9647640590818618,0.8679867986798679,1,0,0,martha_collection 1,0,0,8,0
+collection 1,nancy,1,cherry cake,12,1,NA,1,collection 11,1.52542553961938,1.0000000000000002,4,0,0,0,1,0,1.2995906936517247,1,0,1,0,nancy_collection 1,0,0,NA,0
+collection 1,norman,1,cherry cake,6,11,NA,1,collection 11,-0.1386750490563073,0.4545454545454546,2,0,1,0,0,0,-2.0486756520469034,0.04785478547854782,0,0,1,norman_collection 1,1,0,5,0
+collection 1,richard,1,cherry cake,7,10,NA,1,collection 11,0.1386750490563073,0.5454545454545455,3,0,0,1,0,0,-1.7138490174770407,0.08910891089108908,0,0,1,richard_collection 1,1,0,NA,0
+collection 1,chetna,2,florentines,7,8,NA,1,collection 12,0.30151134457776363,0.6,3,0,0,1,0,0,-1.0441957483373152,0.20792079207920788,0,0,1,chetna_collection 1,0,0,9,0
+collection 1,diana,2,florentines,9,7,NA,1,collection 12,0.9045340337332909,0.7999999999999999,3,0,0,1,0,0,-0.7093691137674523,0.28712871287128716,0,0,0,diana_collection 1,0,0,4,0
+collection 1,enwezor,2,florentines,5,9,NA,1,collection 12,-0.30151134457776363,0.4,2,0,1,0,0,0,-1.379022382907178,0.14356435643564358,0,0,1,enwezor_collection 1,1,0,2,1
+collection 1,iain,2,florentines,8,11,NA,1,collection 12,0.6030226891555273,0.7,3,0,0,1,0,0,-2.0486756520469034,0.04785478547854782,0,0,1,iain_collection 1,1,0,4,0
+collection 1,jordan,2,florentines,4,6,NA,1,collection 12,-0.6030226891555273,0.30000000000000004,2,0,1,0,0,0,-0.3745424791975895,0.3795379537953796,0,0,0,jordan_collection 1,0,0,3,0
+collection 1,kate,2,florentines,11,4,NA,1,collection 12,1.507556722888818,0.9999999999999999,4,0,0,0,1,0,0.2951107899421362,0.6039603960396039,0,1,0,kate_collection 1,0,0,7,0
+collection 1,luis,2,florentines,6,3,NA,1,collection 12,0,0.5,2,0,1,0,0,0,0.629937424511999,0.7343234323432344,0,0,1,luis_collection 1,0,0,NA,0
+collection 1,martha,2,florentines,3,5,NA,1,collection 12,-0.9045340337332909,0.2,1,1,0,0,0,0,-0.03971584462772664,0.48679867986798675,0,0,0,martha_collection 1,0,0,8,0
+collection 1,nancy,2,florentines,1,2,NA,1,collection 12,-1.507556722888818,0,1,1,0,0,0,0,0.9647640590818618,0.8679867986798679,1,0,0,nancy_collection 1,0,0,NA,0
+collection 1,norman,2,florentines,10,10,NA,1,collection 12,1.2060453783110545,0.8999999999999999,4,0,0,0,1,0,-1.7138490174770407,0.08910891089108908,0,0,0,norman_collection 1,1,0,5,0
+collection 1,richard,2,florentines,2,1,NA,1,collection 12,-1.2060453783110545,0.1,1,1,0,0,0,0,1.2995906936517247,1,0,0,0,richard_collection 1,0,0,NA,0
+collection 1,chetna,3,ciabattas,1,8,NA,0,collection 13,-1.4863010829205867,0,1,1,0,0,0,0,-1.0441957483373152,0.20792079207920788,1,0,0,chetna_collection 1,1,0,9,0
+collection 1,diana,3,ciabattas,9,7,NA,0,collection 13,1.1560119533826787,0.8888888888888891,4,0,0,0,1,0,-0.7093691137674523,0.28712871287128716,0,0,0,diana_collection 1,0,0,4,0
+collection 1,iain,3,ciabattas,3,9,NA,0,collection 13,-0.8257228238447705,0.2222222222222222,1,1,0,0,0,0,-1.379022382907178,0.14356435643564358,0,0,0,iain_collection 1,1,0,4,0
+collection 1,jordan,3,ciabattas,8,10,NA,0,collection 13,0.8257228238447705,0.7777777777777779,3,0,0,1,0,0,-1.7138490174770407,0.08910891089108908,0,0,0,jordan_collection 1,1,0,3,1
+collection 1,kate,3,ciabattas,7,1,NA,0,collection 13,0.49543369430686224,0.6666666666666667,3,0,0,1,0,0,1.2995906936517247,1,0,0,1,kate_collection 1,0,0,7,0
+collection 1,luis,3,ciabattas,10,2,NA,0,collection 13,1.4863010829205867,1.0000000000000002,4,0,0,0,1,0,0.9647640590818618,0.8679867986798679,0,1,0,luis_collection 1,0,0,NA,0
+collection 1,martha,3,ciabattas,2,3,NA,0,collection 13,-1.1560119533826787,0.1111111111111111,1,1,0,0,0,0,0.629937424511999,0.7343234323432344,0,0,0,martha_collection 1,0,0,8,0
+collection 1,nancy,3,ciabattas,4,5,NA,0,collection 13,-0.49543369430686224,0.3333333333333333,2,0,1,0,0,0,-0.03971584462772664,0.48679867986798675,0,0,0,nancy_collection 1,0,0,NA,0
+collection 1,norman,3,ciabattas,5,4,NA,0,collection 13,-0.1651445647689541,0.4444444444444444,2,0,1,0,0,0,0.2951107899421362,0.6039603960396039,0,0,1,norman_collection 1,0,0,5,0
+collection 1,richard,3,ciabattas,6,6,NA,0,collection 13,0.1651445647689541,0.5555555555555556,3,0,0,1,0,0,-0.3745424791975895,0.3795379537953796,0,0,1,richard_collection 1,0,0,NA,0
+collection 1,chetna,4,tiramisu cake,5,3,NA,1,collection 14,0,0.5,2,0,1,0,0,0,0.629937424511999,0.7343234323432344,0,0,1,chetna_collection 1,0,0,9,0
+collection 1,diana,4,tiramisu cake,3,9,NA,1,collection 14,-0.7302967433402214,0.25,1,1,0,0,0,0,-1.379022382907178,0.14356435643564358,0,0,0,diana_collection 1,1,0,4,1
+collection 1,iain,4,tiramisu cake,4,6,NA,1,collection 14,-0.3651483716701107,0.375,2,0,1,0,0,0,-0.3745424791975895,0.3795379537953796,0,0,1,iain_collection 1,0,0,4,1
+collection 1,kate,4,tiramisu cake,6,7,NA,1,collection 14,0.3651483716701107,0.625,3,0,0,1,0,0,-0.7093691137674523,0.28712871287128716,0,0,1,kate_collection 1,1,0,7,0
+collection 1,luis,4,tiramisu cake,7,2,NA,1,collection 14,0.7302967433402214,0.75,3,0,0,1,0,0,0.9647640590818618,0.8679867986798679,0,0,0,luis_collection 1,0,0,NA,0
+collection 1,martha,4,tiramisu cake,1,1,NA,1,collection 14,-1.4605934866804429,0,1,1,0,0,0,0,1.2995906936517247,1,1,0,0,martha_collection 1,0,0,8,0
+collection 1,nancy,4,tiramisu cake,8,4,NA,1,collection 14,1.0954451150103321,0.875,4,0,0,0,1,0,0.2951107899421362,0.6039603960396039,0,0,0,nancy_collection 1,0,0,NA,0
+collection 1,norman,4,tiramisu cake,9,8,NA,1,collection 14,1.4605934866804429,1,4,0,0,0,1,0,-1.0441957483373152,0.20792079207920788,0,1,0,norman_collection 1,1,0,5,0
+collection 1,richard,4,tiramisu cake,2,5,NA,1,collection 14,-1.0954451150103321,0.125,1,1,0,0,0,0,-0.03971584462772664,0.48679867986798675,0,0,0,richard_collection 1,0,0,NA,0
+collection 1,chetna,5,mini pear pies,4,2,NA,1,collection 15,0,0.5,2,0,1,0,0,0,0.9647640590818618,0.8679867986798679,0,0,1,chetna_collection 1,0,0,9,0
+collection 1,kate,5,mini pear pies,5,3,NA,1,collection 15,0.4629100498862757,0.6666666666666666,3,0,0,1,0,0,0.629937424511999,0.7343234323432344,0,0,1,kate_collection 1,0,0,7,0
+collection 1,luis,5,mini pear pies,3,6,NA,1,collection 15,-0.4629100498862757,0.3333333333333333,2,0,1,0,0,0,-0.3745424791975895,0.3795379537953796,0,0,0,luis_collection 1,1,0,NA,0
+collection 1,martha,5,mini pear pies,7,1,NA,1,collection 15,1.3887301496588271,0.9999999999999999,4,0,0,0,1,0,1.2995906936517247,1,0,1,0,martha_collection 1,0,0,8,0
+collection 1,nancy,5,mini pear pies,6,4,NA,1,collection 15,0.9258200997725514,0.8333333333333333,3,0,0,1,0,0,0.2951107899421362,0.6039603960396039,0,0,0,nancy_collection 1,0,0,NA,0
+collection 1,norman,5,mini pear pies,1,5,NA,1,collection 15,-1.3887301496588271,0,1,1,0,0,0,0,-0.03971584462772664,0.48679867986798675,1,0,0,norman_collection 1,0,0,5,1
+collection 1,richard,5,mini pear pies,2,7,NA,1,collection 15,-0.9258200997725514,0.16666666666666666,1,1,0,0,0,0,-0.7093691137674523,0.28712871287128716,0,0,0,richard_collection 1,1,0,NA,0
+collection 1,chetna,6,prinsesstarta,5,2,NA,1,collection 16,0.8017837257372732,0.8,3,0,0,1,0,0,0.9647640590818618,0.8679867986798679,0,0,0,chetna_collection 1,0,0,9,0
+collection 1,kate,6,prinsesstarta,3,6,NA,1,collection 16,-0.2672612419124244,0.4,2,0,1,0,0,0,-0.3745424791975895,0.3795379537953796,0,0,1,kate_collection 1,1,0,7,0
+collection 1,luis,6,prinsesstarta,4,3,NA,1,collection 16,0.2672612419124244,0.6000000000000001,3,0,0,1,0,0,0.629937424511999,0.7343234323432344,0,0,1,luis_collection 1,0,0,NA,0
+collection 1,martha,6,prinsesstarta,2,4,NA,1,collection 16,-0.8017837257372732,0.2,1,1,0,0,0,0,0.2951107899421362,0.6039603960396039,0,0,0,martha_collection 1,0,0,8,0
+collection 1,nancy,6,prinsesstarta,6,1,NA,1,collection 16,1.3363062095621219,1,4,0,0,0,1,0,1.2995906936517247,1,0,1,0,nancy_collection 1,0,0,NA,0
+collection 1,richard,6,prinsesstarta,1,5,NA,1,collection 16,-1.3363062095621219,0,1,1,0,0,0,0,-0.03971584462772664,0.48679867986798675,1,0,0,richard_collection 1,1,0,NA,0
+collection 1,chetna,7,kouign-amann,5,6,NA,1,collection 17,0.8017837257372732,0.8,3,0,0,1,0,0,-0.3745424791975895,0.3795379537953796,0,0,0,chetna_collection 1,1,0,9,0
+collection 1,kate,7,kouign-amann,2,4,NA,1,collection 17,-0.8017837257372732,0.2,1,1,0,0,0,0,0.2951107899421362,0.6039603960396039,0,0,0,kate_collection 1,0,0,7,1
+collection 1,luis,7,kouign-amann,1,5,NA,1,collection 17,-1.3363062095621219,0,1,1,0,0,0,0,-0.03971584462772664,0.48679867986798675,1,0,0,luis_collection 1,1,0,NA,0
+collection 1,martha,7,kouign-amann,6,3,NA,1,collection 17,1.3363062095621219,1,4,0,0,0,1,0,0.629937424511999,0.7343234323432344,0,1,0,martha_collection 1,0,0,8,0
+collection 1,nancy,7,kouign-amann,4,2,NA,1,collection 17,0.2672612419124244,0.6000000000000001,3,0,0,1,0,0,0.9647640590818618,0.8679867986798679,0,0,1,nancy_collection 1,0,0,NA,0
+collection 1,richard,7,kouign-amann,3,1,NA,1,collection 17,-0.2672612419124244,0.4,2,0,1,0,0,0,1.2995906936517247,1,0,0,1,richard_collection 1,0,0,NA,0
+collection 1,chetna,8,povitica,3,1,NA,1,collection 18,0,0.5,2,0,1,0,0,0,1.2995906936517247,1,0,0,1,chetna_collection 1,0,0,9,0
+collection 1,luis,8,povitica,1,2,NA,1,collection 18,-1.2649110640673518,0,1,1,0,0,0,0,0.9647640590818618,0.8679867986798679,1,0,0,luis_collection 1,0,0,NA,0
+collection 1,martha,8,povitica,4,5,NA,1,collection 18,0.6324555320336759,0.75,3,0,0,1,0,0,-0.03971584462772664,0.48679867986798675,0,0,1,martha_collection 1,1,0,8,1
+collection 1,nancy,8,povitica,2,3,NA,1,collection 18,-0.6324555320336759,0.25,1,1,0,0,0,0,0.629937424511999,0.7343234323432344,0,0,0,nancy_collection 1,0,0,NA,0
+collection 1,richard,8,povitica,5,4,NA,1,collection 18,1.2649110640673518,1,4,0,0,0,1,0,0.2951107899421362,0.6039603960396039,0,1,0,richard_collection 1,0,0,NA,0
+collection 1,chetna,9,schichttorte,3,4,NA,1,collection 19,0.3872983346207417,0.6666666666666666,3,0,0,1,0,0,0.2951107899421362,0.6039603960396039,0,0,1,chetna_collection 1,1,0,9,1
+collection 1,luis,9,schichttorte,2,1,NA,1,collection 19,-0.3872983346207417,0.3333333333333333,2,0,1,0,0,0,1.2995906936517247,1,0,0,0,luis_collection 1,0,0,NA,0
+collection 1,nancy,9,schichttorte,1,3,NA,1,collection 19,-1.161895003862225,0,1,1,0,0,0,0,0.629937424511999,0.7343234323432344,1,0,0,nancy_collection 1,0,0,NA,0
+collection 1,richard,9,schichttorte,4,2,NA,1,collection 19,1.161895003862225,1,4,0,0,0,1,0,0.9647640590818618,0.8679867986798679,0,1,0,richard_collection 1,0,0,NA,0
+collection 1,luis,10,"victoria sandwhich, tarte au citron, scones",1,2,NA,1,collection 110,-1,0,1,1,0,0,0,0,0.9647640590818618,0.8679867986798679,1,0,0,luis_collection 1,0,0,NA,0
+collection 1,nancy,10,"victoria sandwhich, tarte au citron, scones",2,1,NA,1,collection 110,0,0.5,2,0,1,0,0,0,1.2995906936517247,1,0,0,1,nancy_collection 1,0,0,NA,0
+collection 1,richard,10,"victoria sandwhich, tarte au citron, scones",3,3,NA,1,collection 110,1,1,3,0,0,1,0,0,0.629937424511999,0.7343234323432344,0,1,0,richard_collection 1,1,0,NA,0
+collection 3,alvin,1,frosted walnut layer cake,8,2,NA,1,collection 31,0.41602514716892186,0.6363636363636365,3,0,0,1,0,0,0.9647640590818618,0.8679867986798679,0,0,1,alvin_collection 3,0,0,6,0
+collection 3,dorret,1,frosted walnut layer cake,11,5,NA,1,collection 31,1.2480754415067656,0.9090909090909093,4,0,0,0,1,0,-0.03971584462772664,0.48679867986798675,0,0,0,dorret_collection 3,0,0,3,0
+collection 3,flora,1,frosted walnut layer cake,1,6,NA,1,collection 31,-1.52542553961938,0,1,1,0,0,0,0,-0.3745424791975895,0.3795379537953796,1,0,0,flora_collection 3,0,0,9,0
+collection 3,ian,1,frosted walnut layer cake,10,8,NA,1,collection 31,0.9707253433941511,0.8181818181818183,4,0,0,0,1,0,-1.0441957483373152,0.20792079207920788,0,0,0,ian_collection 3,0,0,NA,0
+collection 3,marie,1,frosted walnut layer cake,6,3,NA,1,collection 31,-0.1386750490563073,0.4545454545454546,2,0,1,0,0,0,0.629937424511999,0.7343234323432344,0,0,1,marie_collection 3,0,0,2,0
+collection 3,mat,1,frosted walnut layer cake,2,7,NA,1,collection 31,-1.2480754415067656,0.09090909090909091,1,1,0,0,0,0,-0.7093691137674523,0.28712871287128716,0,0,0,mat_collection 3,0,0,7,0
+collection 3,nadiya,1,frosted walnut layer cake,9,12,NA,1,collection 31,0.6933752452815365,0.7272727272727274,3,0,0,1,0,0,-2.3835022866167663,0.018151815181518205,0,0,0,nadiya_collection 3,1,0,NA,0
+collection 3,paul,1,frosted walnut layer cake,12,10,NA,1,collection 31,1.52542553961938,1.0000000000000002,4,0,0,0,1,0,-1.7138490174770407,0.08910891089108908,0,1,0,paul_collection 3,1,0,8,0
+collection 3,sandy,1,frosted walnut layer cake,4,9,NA,1,collection 31,-0.6933752452815365,0.2727272727272727,2,0,1,0,0,0,-1.379022382907178,0.14356435643564358,0,0,0,sandy_collection 3,1,0,4,0
+collection 3,stu,1,frosted walnut layer cake,5,11,NA,1,collection 31,-0.41602514716892186,0.36363636363636365,2,0,1,0,0,0,-2.0486756520469034,0.04785478547854782,0,0,1,stu_collection 3,1,0,1,1
+collection 3,tamal,1,frosted walnut layer cake,3,4,NA,1,collection 31,-0.9707253433941511,0.18181818181818182,1,1,0,0,0,0,0.2951107899421362,0.6039603960396039,0,0,0,tamal_collection 3,0,0,NA,0
+collection 3,ugne,1,frosted walnut layer cake,7,1,NA,1,collection 31,0.1386750490563073,0.5454545454545455,3,0,0,1,0,0,1.2995906936517247,1,0,0,1,ugne_collection 3,0,0,5,0
+collection 3,alvin,2,arlettes,5,6,NA,1,collection 32,-0.30151134457776363,0.4,2,0,1,0,0,0,-0.3745424791975895,0.3795379537953796,0,0,1,alvin_collection 3,0,0,6,0
+collection 3,dorret,2,arlettes,1,1,NA,1,collection 32,-1.507556722888818,0,1,1,0,0,0,0,1.2995906936517247,1,1,0,0,dorret_collection 3,0,0,3,0
+collection 3,flora,2,arlettes,6,2,NA,1,collection 32,0,0.5,2,0,1,0,0,0,0.9647640590818618,0.8679867986798679,0,0,1,flora_collection 3,0,0,9,0
+collection 3,ian,2,arlettes,3,3,NA,1,collection 32,-0.9045340337332909,0.2,1,1,0,0,0,0,0.629937424511999,0.7343234323432344,0,0,0,ian_collection 3,0,0,NA,0
+collection 3,marie,2,arlettes,4,11,NA,1,collection 32,-0.6030226891555273,0.30000000000000004,2,0,1,0,0,0,-2.0486756520469034,0.04785478547854782,0,0,0,marie_collection 3,1,0,2,1
+collection 3,mat,2,arlettes,7,5,NA,1,collection 32,0.30151134457776363,0.6,3,0,0,1,0,0,-0.03971584462772664,0.48679867986798675,0,0,1,mat_collection 3,0,0,7,0
+collection 3,nadiya,2,arlettes,11,9,NA,1,collection 32,1.507556722888818,0.9999999999999999,4,0,0,0,1,0,-1.379022382907178,0.14356435643564358,0,1,0,nadiya_collection 3,1,0,NA,0
+collection 3,paul,2,arlettes,9,10,NA,1,collection 32,0.9045340337332909,0.7999999999999999,3,0,0,1,0,0,-1.7138490174770407,0.08910891089108908,0,0,0,paul_collection 3,1,0,8,0
+collection 3,sandy,2,arlettes,2,4,NA,1,collection 32,-1.2060453783110545,0.1,1,1,0,0,0,0,0.2951107899421362,0.6039603960396039,0,0,0,sandy_collection 3,0,0,4,0
+collection 3,tamal,2,arlettes,10,8,NA,1,collection 32,1.2060453783110545,0.8999999999999999,4,0,0,0,1,0,-1.0441957483373152,0.20792079207920788,0,0,0,tamal_collection 3,0,0,NA,0
+collection 3,ugne,2,arlettes,8,7,NA,1,collection 32,0.6030226891555273,0.7,3,0,0,1,0,0,-0.7093691137674523,0.28712871287128716,0,0,1,ugne_collection 3,0,0,5,0
+collection 3,alvin,3,baguettes,3,4,NA,0,collection 33,-0.8257228238447705,0.2222222222222222,1,1,0,0,0,0,0.2951107899421362,0.6039603960396039,0,0,0,alvin_collection 3,0,0,6,0
+collection 3,dorret,3,baguettes,4,6,NA,0,collection 33,-0.49543369430686224,0.3333333333333333,2,0,1,0,0,0,-0.3745424791975895,0.3795379537953796,0,0,0,dorret_collection 3,0,0,3,1
+collection 3,flora,3,baguettes,2,2,NA,0,collection 33,-1.1560119533826787,0.1111111111111111,1,1,0,0,0,0,0.9647640590818618,0.8679867986798679,0,0,0,flora_collection 3,0,0,9,0
+collection 3,ian,3,baguettes,1,1,NA,0,collection 33,-1.4863010829205867,0,1,1,0,0,0,0,1.2995906936517247,1,1,0,0,ian_collection 3,0,0,NA,0
+collection 3,mat,3,baguettes,5,8,NA,0,collection 33,-0.1651445647689541,0.4444444444444444,2,0,1,0,0,0,-1.0441957483373152,0.20792079207920788,0,0,1,mat_collection 3,1,0,7,0
+collection 3,nadiya,3,baguettes,8,9,NA,0,collection 33,0.8257228238447705,0.7777777777777779,3,0,0,1,0,0,-1.379022382907178,0.14356435643564358,0,0,0,nadiya_collection 3,1,0,NA,0
+collection 3,paul,3,baguettes,10,10,NA,0,collection 33,1.4863010829205867,1.0000000000000002,4,0,0,0,1,0,-1.7138490174770407,0.08910891089108908,0,1,0,paul_collection 3,1,0,8,0
+collection 3,sandy,3,baguettes,9,7,NA,0,collection 33,1.1560119533826787,0.8888888888888891,4,0,0,0,1,0,-0.7093691137674523,0.28712871287128716,0,0,0,sandy_collection 3,0,0,4,0
+collection 3,tamal,3,baguettes,6,3,NA,0,collection 33,0.1651445647689541,0.5555555555555556,3,0,0,1,0,0,0.629937424511999,0.7343234323432344,0,0,1,tamal_collection 3,0,0,NA,0
+collection 3,ugne,3,baguettes,7,5,NA,0,collection 33,0.49543369430686224,0.6666666666666667,3,0,0,1,0,0,-0.03971584462772664,0.48679867986798675,0,0,1,ugne_collection 3,0,0,5,0
+collection 3,alvin,4,spanische windtorte,5,9,NA,1,collection 34,0,0.5,2,0,1,0,0,0,-1.379022382907178,0.14356435643564358,0,0,1,alvin_collection 3,1,0,6,0
+collection 3,flora,4,spanische windtorte,6,3,NA,1,collection 34,0.3651483716701107,0.625,3,0,0,1,0,0,0.629937424511999,0.7343234323432344,0,0,1,flora_collection 3,0,0,9,0
+collection 3,ian,4,spanische windtorte,9,4,NA,1,collection 34,1.4605934866804429,1,4,0,0,0,1,0,0.2951107899421362,0.6039603960396039,0,1,0,ian_collection 3,0,0,NA,0
+collection 3,mat,4,spanische windtorte,2,7,NA,1,collection 34,-1.0954451150103321,0.125,1,1,0,0,0,0,-0.7093691137674523,0.28712871287128716,0,0,0,mat_collection 3,1,0,7,0
+collection 3,nadiya,4,spanische windtorte,8,8,NA,1,collection 34,1.0954451150103321,0.875,4,0,0,0,1,0,-1.0441957483373152,0.20792079207920788,0,0,0,nadiya_collection 3,1,0,NA,0
+collection 3,paul,4,spanische windtorte,3,1,NA,1,collection 34,-0.7302967433402214,0.25,1,1,0,0,0,0,1.2995906936517247,1,0,0,0,paul_collection 3,0,0,8,0
+collection 3,sandy,4,spanische windtorte,1,6,NA,1,collection 34,-1.4605934866804429,0,1,1,0,0,0,0,-0.3745424791975895,0.3795379537953796,1,0,0,sandy_collection 3,0,0,4,1
+collection 3,tamal,4,spanische windtorte,7,5,NA,1,collection 34,0.7302967433402214,0.75,3,0,0,1,0,0,-0.03971584462772664,0.48679867986798675,0,0,0,tamal_collection 3,0,0,NA,0
+collection 3,ugne,4,spanische windtorte,4,2,NA,1,collection 34,-0.3651483716701107,0.375,2,0,1,0,0,0,0.9647640590818618,0.8679867986798679,0,0,1,ugne_collection 3,0,0,5,0
+collection 3,alvin,5,pita bread,8,8,NA,0,collection 35,1.4288690166235207,0.9999999999999998,4,0,0,0,1,0,-1.0441957483373152,0.20792079207920788,0,1,0,alvin_collection 3,1,0,6,0
+collection 3,flora,5,pita bread,1,3,NA,0,collection 35,-1.4288690166235207,0,1,1,0,0,0,0,0.629937424511999,0.7343234323432344,1,0,0,flora_collection 3,0,0,9,0
+collection 3,ian,5,pita bread,2,5,NA,0,collection 35,-1.0206207261596576,0.14285714285714285,1,1,0,0,0,0,-0.03971584462772664,0.48679867986798675,0,0,0,ian_collection 3,0,0,NA,0
+collection 3,mat,5,pita bread,4,4,NA,0,collection 35,-0.20412414523193154,0.42857142857142855,2,0,1,0,0,0,0.2951107899421362,0.6039603960396039,0,0,1,mat_collection 3,0,0,7,0
+collection 3,nadiya,5,pita bread,7,1,NA,0,collection 35,1.0206207261596576,0.857142857142857,4,0,0,0,1,0,1.2995906936517247,1,0,0,0,nadiya_collection 3,0,0,NA,0
+collection 3,paul,5,pita bread,6,2,NA,0,collection 35,0.6123724356957946,0.7142857142857142,3,0,0,1,0,0,0.9647640590818618,0.8679867986798679,0,0,1,paul_collection 3,0,0,8,0
+collection 3,tamal,5,pita bread,5,7,NA,0,collection 35,0.20412414523193154,0.5714285714285714,3,0,0,1,0,0,-0.7093691137674523,0.28712871287128716,0,0,1,tamal_collection 3,1,0,NA,0
+collection 3,ugne,5,pita bread,3,6,NA,0,collection 35,-0.6123724356957946,0.2857142857142857,2,0,1,0,0,0,-0.3745424791975895,0.3795379537953796,0,0,0,ugne_collection 3,0,0,5,1
+collection 3,alvin,6,flaounes,3,6,NA,0,collection 36,-0.4741564678161599,0.3333333333333333,2,0,1,0,0,0,-0.3745424791975895,0.3795379537953796,0,0,0,alvin_collection 3,1,0,6,1
+collection 3,flora,6,flaounes,2,2,NA,0,collection 36,-0.8890433771552997,0.16666666666666666,1,1,0,0,0,0,0.9647640590818618,0.8679867986798679,0,0,0,flora_collection 3,0,0,9,0
+collection 3,ian,6,flaounes,8,3,NA,0,collection 36,1.600278078879539,0.9999999999999999,4,0,0,0,1,0,0.629937424511999,0.7343234323432344,0,1,0,ian_collection 3,0,0,NA,0
+collection 3,mat,6,flaounes,4,1,NA,0,collection 36,-0.059269558477020125,0.5,2,0,1,0,0,0,1.2995906936517247,1,0,0,1,mat_collection 3,0,0,7,0
+collection 3,nadiya,6,flaounes,5,4,NA,0,collection 36,0.35561735086211965,0.6666666666666666,3,0,0,1,0,0,0.2951107899421362,0.6039603960396039,0,0,1,nadiya_collection 3,0,0,NA,0
+collection 3,paul,6,flaounes,6,5,NA,0,collection 36,0.7705042602012594,0.8333333333333333,3,0,0,1,0,0,-0.03971584462772664,0.48679867986798675,0,0,0,paul_collection 3,0,0,8,0
+collection 3,tamal,6,flaounes,1,7,NA,0,collection 36,-1.3039302864944395,0,1,1,0,0,0,0,-0.7093691137674523,0.28712871287128716,1,0,0,tamal_collection 3,1,0,NA,0
+collection 3,flora,7,tennis cake,5,4,NA,1,collection 37,0.8017837257372732,0.8,3,0,0,1,0,0,0.2951107899421362,0.6039603960396039,0,0,0,flora_collection 3,0,0,9,0
+collection 3,ian,7,tennis cake,6,5,NA,1,collection 37,1.3363062095621219,1,4,0,0,0,1,0,-0.03971584462772664,0.48679867986798675,0,1,0,ian_collection 3,1,0,NA,0
+collection 3,mat,7,tennis cake,3,6,NA,1,collection 37,-0.2672612419124244,0.4,2,0,1,0,0,0,-0.3745424791975895,0.3795379537953796,0,0,1,mat_collection 3,1,0,7,1
+collection 3,nadiya,7,tennis cake,2,1,NA,1,collection 37,-0.8017837257372732,0.2,1,1,0,0,0,0,1.2995906936517247,1,0,0,0,nadiya_collection 3,0,0,NA,0
+collection 3,paul,7,tennis cake,1,2,NA,1,collection 37,-1.3363062095621219,0,1,1,0,0,0,0,0.9647640590818618,0.8679867986798679,1,0,0,paul_collection 3,0,0,8,0
+collection 3,tamal,7,tennis cake,4,3,NA,1,collection 37,0.2672612419124244,0.6000000000000001,3,0,0,1,0,0,0.629937424511999,0.7343234323432344,0,0,1,tamal_collection 3,0,0,NA,0
+collection 3,flora,8,mochatines,5,3,NA,1,collection 38,1.2649110640673518,1,4,0,0,0,1,0,0.629937424511999,0.7343234323432344,0,1,0,flora_collection 3,0,0,9,0
+collection 3,ian,8,mochatines,1,2,NA,1,collection 38,-1.2649110640673518,0,1,1,0,0,0,0,0.9647640590818618,0.8679867986798679,1,0,0,ian_collection 3,0,0,NA,0
+collection 3,nadiya,8,mochatines,2,1,NA,1,collection 38,-0.6324555320336759,0.25,1,1,0,0,0,0,1.2995906936517247,1,0,0,0,nadiya_collection 3,0,0,NA,0
+collection 3,paul,8,mochatines,3,5,NA,1,collection 38,0,0.5,2,0,1,0,0,0,-0.03971584462772664,0.48679867986798675,0,0,1,paul_collection 3,1,0,8,1
+collection 3,tamal,8,mochatines,4,4,NA,1,collection 38,0.6324555320336759,0.75,3,0,0,1,0,0,0.2951107899421362,0.6039603960396039,0,0,1,tamal_collection 3,0,0,NA,0
+collection 3,flora,9,souffle,1,1,NA,1,collection 39,-1.161895003862225,0,1,1,0,0,0,0,1.2995906936517247,1,1,0,0,flora_collection 3,0,0,9,1
+collection 3,ian,9,souffle,2,3,NA,1,collection 39,-0.3872983346207417,0.3333333333333333,2,0,1,0,0,0,0.629937424511999,0.7343234323432344,0,0,0,ian_collection 3,0,0,NA,0
+collection 3,nadiya,9,souffle,3,4,NA,1,collection 39,0.3872983346207417,0.6666666666666666,3,0,0,1,0,0,0.2951107899421362,0.6039603960396039,0,0,1,nadiya_collection 3,1,0,NA,0
+collection 3,tamal,9,souffle,4,2,NA,1,collection 39,1.161895003862225,1,4,0,0,0,1,0,0.9647640590818618,0.8679867986798679,0,1,0,tamal_collection 3,0,0,NA,0
+collection 3,ian,10,mille-feuille,3,2,NA,1,collection 310,1,1,3,0,0,1,0,0,0.9647640590818618,0.8679867986798679,0,1,0,ian_collection 3,0,0,NA,0
+collection 3,nadiya,10,mille-feuille,2,1,NA,1,collection 310,0,0.5,2,0,1,0,0,0,1.2995906936517247,1,0,0,1,nadiya_collection 3,0,0,NA,0
+collection 3,tamal,10,mille-feuille,1,3,NA,1,collection 310,-1,0,1,1,0,0,0,0,0.629937424511999,0.7343234323432344,1,0,0,tamal_collection 3,1,0,NA,0
+collection 4,andrew,1,jaffa cakes,9,12,NA,1,collection 41,0.6933752452815365,0.7272727272727274,3,0,0,1,0,0,-2.3835022866167663,0.018151815181518205,0,0,0,andrew_collection 4,1,0,NA,0
+collection 4,benjamina,1,jaffa cakes,1,6,NA,1,collection 41,-1.52542553961938,0,1,1,0,0,0,0,-0.3745424791975895,0.3795379537953796,1,0,0,benjamina_collection 4,0,0,8,0
+collection 4,candice,1,jaffa cakes,8,5,NA,1,collection 41,0.41602514716892186,0.6363636363636365,3,0,0,1,0,0,-0.03971584462772664,0.48679867986798675,0,0,1,candice_collection 4,0,0,NA,0
+collection 4,jane,1,jaffa cakes,4,7,NA,1,collection 41,-0.6933752452815365,0.2727272727272727,2,0,1,0,0,0,-0.7093691137674523,0.28712871287128716,0,0,0,jane_collection 4,0,0,NA,0
+collection 4,kate,1,jaffa cakes,6,4,NA,1,collection 41,-0.1386750490563073,0.4545454545454546,2,0,1,0,0,0,0.2951107899421362,0.6039603960396039,0,0,1,kate_collection 4,0,0,4,0
+collection 4,lee,1,jaffa cakes,5,11,NA,1,collection 41,-0.41602514716892186,0.36363636363636365,2,0,1,0,0,0,-2.0486756520469034,0.04785478547854782,0,0,1,lee_collection 4,1,0,1,1
+collection 4,louise,1,jaffa cakes,2,9,NA,1,collection 41,-1.2480754415067656,0.09090909090909091,1,1,0,0,0,0,-1.379022382907178,0.14356435643564358,0,0,0,louise_collection 4,1,0,2,0
+collection 4,michael,1,jaffa cakes,3,3,NA,1,collection 41,-0.9707253433941511,0.18181818181818182,1,1,0,0,0,0,0.629937424511999,0.7343234323432344,0,0,0,michael_collection 4,0,0,3,0
+collection 4,rav,1,jaffa cakes,10,8,NA,1,collection 41,0.9707253433941511,0.8181818181818183,4,0,0,0,1,0,-1.0441957483373152,0.20792079207920788,0,0,0,rav_collection 4,0,0,6,0
+collection 4,selasi,1,jaffa cakes,12,1,NA,1,collection 41,1.52542553961938,1.0000000000000002,4,0,0,0,1,0,1.2995906936517247,1,0,1,0,selasi_collection 4,0,0,9,0
+collection 4,tom,1,jaffa cakes,7,2,NA,1,collection 41,0.1386750490563073,0.5454545454545455,3,0,0,1,0,0,0.9647640590818618,0.8679867986798679,0,0,1,tom_collection 4,0,0,7,0
+collection 4,val,1,jaffa cakes,11,10,NA,1,collection 41,1.2480754415067656,0.9090909090909093,4,0,0,0,1,0,-1.7138490174770407,0.08910891089108908,0,0,0,val_collection 4,1,0,5,0
+collection 4,andrew,2,viennese whirls,4,4,NA,1,collection 42,-0.6030226891555273,0.30000000000000004,2,0,1,0,0,0,0.2951107899421362,0.6039603960396039,0,0,0,andrew_collection 4,0,0,NA,0
+collection 4,benjamina,2,viennese whirls,5,3,NA,1,collection 42,-0.30151134457776363,0.4,2,0,1,0,0,0,0.629937424511999,0.7343234323432344,0,0,1,benjamina_collection 4,0,0,8,0
+collection 4,candice,2,viennese whirls,2,8,NA,1,collection 42,-1.2060453783110545,0.1,1,1,0,0,0,0,-1.0441957483373152,0.20792079207920788,0,0,0,candice_collection 4,0,0,NA,0
+collection 4,jane,2,viennese whirls,8,2,NA,1,collection 42,0.6030226891555273,0.7,3,0,0,1,0,0,0.9647640590818618,0.8679867986798679,0,0,1,jane_collection 4,0,0,NA,0
+collection 4,kate,2,viennese whirls,6,1,NA,1,collection 42,0,0.5,2,0,1,0,0,0,1.2995906936517247,1,0,0,1,kate_collection 4,0,0,4,0
+collection 4,louise,2,viennese whirls,3,10,NA,1,collection 42,-0.9045340337332909,0.2,1,1,0,0,0,0,-1.7138490174770407,0.08910891089108908,0,0,0,louise_collection 4,1,0,2,1
+collection 4,michael,2,viennese whirls,7,9,NA,1,collection 42,0.30151134457776363,0.6,3,0,0,1,0,0,-1.379022382907178,0.14356435643564358,0,0,1,michael_collection 4,1,0,3,0
+collection 4,rav,2,viennese whirls,11,6,NA,1,collection 42,1.507556722888818,0.9999999999999999,4,0,0,0,1,0,-0.3745424791975895,0.3795379537953796,0,1,0,rav_collection 4,0,0,6,0
+collection 4,selasi,2,viennese whirls,9,11,NA,1,collection 42,0.9045340337332909,0.7999999999999999,3,0,0,1,0,0,-2.0486756520469034,0.04785478547854782,0,0,0,selasi_collection 4,1,0,9,0
+collection 4,tom,2,viennese whirls,1,7,NA,1,collection 42,-1.507556722888818,0,1,1,0,0,0,0,-0.7093691137674523,0.28712871287128716,1,0,0,tom_collection 4,0,0,7,0
+collection 4,val,2,viennese whirls,10,5,NA,1,collection 42,1.2060453783110545,0.8999999999999999,4,0,0,0,1,0,-0.03971584462772664,0.48679867986798675,0,0,0,val_collection 4,0,0,5,0
+collection 4,andrew,3,dampfnudel,1,2,NA,1,collection 43,-1.4863010829205867,0,1,1,0,0,0,0,0.9647640590818618,0.8679867986798679,1,0,0,andrew_collection 4,0,0,NA,0
+collection 4,benjamina,3,dampfnudel,6,6,NA,1,collection 43,0.1651445647689541,0.5555555555555556,3,0,0,1,0,0,-0.3745424791975895,0.3795379537953796,0,0,1,benjamina_collection 4,0,0,8,0
+collection 4,candice,3,dampfnudel,7,3,NA,1,collection 43,0.49543369430686224,0.6666666666666667,3,0,0,1,0,0,0.629937424511999,0.7343234323432344,0,0,1,candice_collection 4,0,0,NA,0
+collection 4,jane,3,dampfnudel,10,9,NA,1,collection 43,1.4863010829205867,1.0000000000000002,4,0,0,0,1,0,-1.379022382907178,0.14356435643564358,0,1,0,jane_collection 4,1,0,NA,0
+collection 4,kate,3,dampfnudel,2,8,NA,1,collection 43,-1.1560119533826787,0.1111111111111111,1,1,0,0,0,0,-1.0441957483373152,0.20792079207920788,0,0,0,kate_collection 4,1,0,4,0
+collection 4,michael,3,dampfnudel,9,7,NA,1,collection 43,1.1560119533826787,0.8888888888888891,4,0,0,0,1,0,-0.7093691137674523,0.28712871287128716,0,0,0,michael_collection 4,0,0,3,1
+collection 4,rav,3,dampfnudel,4,10,NA,1,collection 43,-0.49543369430686224,0.3333333333333333,2,0,1,0,0,0,-1.7138490174770407,0.08910891089108908,0,0,0,rav_collection 4,1,0,6,0
+collection 4,selasi,3,dampfnudel,8,5,NA,1,collection 43,0.8257228238447705,0.7777777777777779,3,0,0,1,0,0,-0.03971584462772664,0.48679867986798675,0,0,0,selasi_collection 4,0,0,9,0
+collection 4,tom,3,dampfnudel,5,4,NA,1,collection 43,-0.1651445647689541,0.4444444444444444,2,0,1,0,0,0,0.2951107899421362,0.6039603960396039,0,0,1,tom_collection 4,0,0,7,0
+collection 4,val,3,dampfnudel,3,1,NA,1,collection 43,-0.8257228238447705,0.2222222222222222,1,1,0,0,0,0,1.2995906936517247,1,0,0,0,val_collection 4,0,0,5,0
+collection 4,andrew,4,lace pancakes,9,4,NA,1,collection 44,1.4605934866804429,1,4,0,0,0,1,0,0.2951107899421362,0.6039603960396039,0,1,0,andrew_collection 4,0,0,NA,0
+collection 4,benjamina,4,lace pancakes,6,1,NA,1,collection 44,0.3651483716701107,0.625,3,0,0,1,0,0,1.2995906936517247,1,0,0,1,benjamina_collection 4,0,0,8,0
+collection 4,candice,4,lace pancakes,7,2,NA,1,collection 44,0.7302967433402214,0.75,3,0,0,1,0,0,0.9647640590818618,0.8679867986798679,0,0,0,candice_collection 4,0,0,NA,0
+collection 4,jane,4,lace pancakes,1,3,NA,1,collection 44,-1.4605934866804429,0,1,1,0,0,0,0,0.629937424511999,0.7343234323432344,1,0,0,jane_collection 4,0,0,NA,0
+collection 4,kate,4,lace pancakes,3,7,NA,1,collection 44,-0.7302967433402214,0.25,1,1,0,0,0,0,-0.7093691137674523,0.28712871287128716,0,0,0,kate_collection 4,1,0,4,1
+collection 4,rav,4,lace pancakes,4,9,NA,1,collection 44,-0.3651483716701107,0.375,2,0,1,0,0,0,-1.379022382907178,0.14356435643564358,0,0,1,rav_collection 4,1,0,6,0
+collection 4,selasi,4,lace pancakes,2,8,NA,1,collection 44,-1.0954451150103321,0.125,1,1,0,0,0,0,-1.0441957483373152,0.20792079207920788,0,0,0,selasi_collection 4,1,0,9,0
+collection 4,tom,4,lace pancakes,5,5,NA,1,collection 44,0,0.5,2,0,1,0,0,0,-0.03971584462772664,0.48679867986798675,0,0,1,tom_collection 4,0,0,7,0
+collection 4,val,4,lace pancakes,8,6,NA,1,collection 44,1.0954451150103321,0.875,4,0,0,0,1,0,-0.3745424791975895,0.3795379537953796,0,0,0,val_collection 4,0,0,5,0
+collection 4,andrew,5,bakewell tart,6,6,NA,1,collection 45,0.6123724356957946,0.7142857142857142,3,0,0,1,0,0,-0.3745424791975895,0.3795379537953796,0,0,1,andrew_collection 4,0,0,NA,0
+collection 4,benjamina,5,bakewell tart,7,5,NA,1,collection 45,1.0206207261596576,0.857142857142857,4,0,0,0,1,0,-0.03971584462772664,0.48679867986798675,0,0,0,benjamina_collection 4,0,0,8,0
+collection 4,candice,5,bakewell tart,2,2,NA,1,collection 45,-1.0206207261596576,0.14285714285714285,1,1,0,0,0,0,0.9647640590818618,0.8679867986798679,0,0,0,candice_collection 4,0,0,NA,0
+collection 4,jane,5,bakewell tart,1,1,NA,1,collection 45,-1.4288690166235207,0,1,1,0,0,0,0,1.2995906936517247,1,1,0,0,jane_collection 4,0,0,NA,0
+collection 4,rav,5,bakewell tart,4,8,NA,1,collection 45,-0.20412414523193154,0.42857142857142855,2,0,1,0,0,0,-1.0441957483373152,0.20792079207920788,0,0,1,rav_collection 4,1,0,6,0
+collection 4,selasi,5,bakewell tart,3,3,NA,1,collection 45,-0.6123724356957946,0.2857142857142857,2,0,1,0,0,0,0.629937424511999,0.7343234323432344,0,0,0,selasi_collection 4,0,0,9,0
+collection 4,tom,5,bakewell tart,5,4,NA,1,collection 45,0.20412414523193154,0.5714285714285714,3,0,0,1,0,0,0.2951107899421362,0.6039603960396039,0,0,1,tom_collection 4,0,0,7,0
+collection 4,val,5,bakewell tart,8,7,NA,1,collection 45,1.4288690166235207,0.9999999999999998,4,0,0,0,1,0,-0.7093691137674523,0.28712871287128716,0,1,0,val_collection 4,1,0,5,1
+collection 4,andrew,6,fougasse,8,6,NA,0,collection 46,1.4489233526959173,0.9999999999999999,4,0,0,0,1,0,-0.3745424791975895,0.3795379537953796,0,1,0,andrew_collection 4,1,0,NA,0
+collection 4,benjamina,6,fougasse,2,2,NA,0,collection 46,-0.8916451401205644,0.16666666666666666,1,1,0,0,0,0,0.9647640590818618,0.8679867986798679,0,0,0,benjamina_collection 4,0,0,8,0
+collection 4,candice,6,fougasse,5,5,NA,0,collection 46,0.27863910628767646,0.6666666666666666,3,0,0,1,0,0,-0.03971584462772664,0.48679867986798675,0,0,1,candice_collection 4,0,0,NA,0
+collection 4,jane,6,fougasse,3,4,NA,0,collection 46,-0.5015503913178174,0.3333333333333333,2,0,1,0,0,0,0.2951107899421362,0.6039603960396039,0,0,0,jane_collection 4,0,0,NA,0
+collection 4,rav,6,fougasse,1,3,NA,0,collection 46,-1.2817398889233114,0,1,1,0,0,0,0,0.629937424511999,0.7343234323432344,1,0,0,rav_collection 4,0,0,6,1
+collection 4,selasi,6,fougasse,4,7,NA,0,collection 46,-0.11145564251507051,0.5,2,0,1,0,0,0,-0.7093691137674523,0.28712871287128716,0,0,1,selasi_collection 4,1,0,9,0
+collection 4,tom,6,fougasse,7,1,NA,0,collection 46,1.0588286038931702,0.8333333333333333,3,0,0,1,0,0,1.2995906936517247,1,0,0,0,tom_collection 4,0,0,7,0
+collection 4,andrew,7,dacquoise,2,1,NA,1,collection 47,-0.8017837257372732,0.2,1,1,0,0,0,0,1.2995906936517247,1,0,0,0,andrew_collection 4,0,0,NA,0
+collection 4,benjamina,7,dacquoise,4,3,NA,1,collection 47,0.2672612419124244,0.6000000000000001,3,0,0,1,0,0,0.629937424511999,0.7343234323432344,0,0,1,benjamina_collection 4,0,0,8,0
+collection 4,candice,7,dacquoise,6,2,NA,1,collection 47,1.3363062095621219,1,4,0,0,0,1,0,0.9647640590818618,0.8679867986798679,0,1,0,candice_collection 4,0,0,NA,0
+collection 4,jane,7,dacquoise,3,4,NA,1,collection 47,-0.2672612419124244,0.4,2,0,1,0,0,0,0.2951107899421362,0.6039603960396039,0,0,1,jane_collection 4,0,0,NA,0
+collection 4,selasi,7,dacquoise,1,6,NA,1,collection 47,-1.3363062095621219,0,1,1,0,0,0,0,-0.3745424791975895,0.3795379537953796,1,0,0,selasi_collection 4,1,0,9,0
+collection 4,tom,7,dacquoise,5,5,NA,1,collection 47,0.8017837257372732,0.8,3,0,0,1,0,0,-0.03971584462772664,0.48679867986798675,0,0,0,tom_collection 4,1,0,7,1
+collection 4,andrew,8,jumbles,1,2,NA,0,collection 48,-1.2649110640673518,0,1,1,0,0,0,0,0.9647640590818618,0.8679867986798679,1,0,0,andrew_collection 4,0,0,NA,0
+collection 4,benjamina,8,jumbles,2,4,NA,0,collection 48,-0.6324555320336759,0.25,1,1,0,0,0,0,0.2951107899421362,0.6039603960396039,0,0,0,benjamina_collection 4,0,0,8,1
+collection 4,candice,8,jumbles,3,1,NA,0,collection 48,0,0.5,2,0,1,0,0,0,1.2995906936517247,1,0,0,1,candice_collection 4,0,0,NA,0
+collection 4,jane,8,jumbles,5,5,NA,0,collection 48,1.2649110640673518,1,4,0,0,0,1,0,-0.03971584462772664,0.48679867986798675,0,1,0,jane_collection 4,1,0,NA,0
+collection 4,selasi,8,jumbles,4,3,NA,0,collection 48,0.6324555320336759,0.75,3,0,0,1,0,0,0.629937424511999,0.7343234323432344,0,0,1,selasi_collection 4,0,0,9,0
+collection 4,andrew,9,savarin,2,2,NA,1,collection 49,-0.3872983346207417,0.3333333333333333,2,0,1,0,0,0,0.9647640590818618,0.8679867986798679,0,0,0,andrew_collection 4,0,0,NA,0
+collection 4,candice,9,savarin,1,3,NA,1,collection 49,-1.161895003862225,0,1,1,0,0,0,0,0.629937424511999,0.7343234323432344,1,0,0,candice_collection 4,0,0,NA,0
+collection 4,jane,9,savarin,4,1,NA,1,collection 49,1.161895003862225,1,4,0,0,0,1,0,1.2995906936517247,1,0,1,0,jane_collection 4,0,0,NA,0
+collection 4,selasi,9,savarin,3,4,NA,1,collection 49,0.3872983346207417,0.6666666666666666,3,0,0,1,0,0,0.2951107899421362,0.6039603960396039,0,0,1,selasi_collection 4,1,0,9,1
+collection 4,andrew,10,victoria sandwich,2,1,NA,1,collection 410,0,0.5,2,0,1,0,0,0,1.2995906936517247,1,0,0,1,andrew_collection 4,0,0,NA,0
+collection 4,candice,10,victoria sandwich,1,2,NA,1,collection 410,-1,0,1,1,0,0,0,0,0.9647640590818618,0.8679867986798679,1,0,0,candice_collection 4,0,0,NA,0
+collection 4,jane,10,victoria sandwich,3,3,NA,1,collection 410,1,1,3,0,0,1,0,0,0.629937424511999,0.7343234323432344,0,1,0,jane_collection 4,1,0,NA,0
+collection 5,yan,1,chocolate mini rolls,1,4,NA,1,collection 51,-1.52542553961938,0,1,1,0,0,0,0,0.2951107899421362,0.6039603960396039,1,0,0,yan_collection 5,0,1,7,0
+collection 5,julia,1,chocolate mini rolls,2,3,NA,1,collection 51,-1.2480754415067656,0.09090909090909091,1,1,0,0,0,0,0.629937424511999,0.7343234323432344,0,0,0,julia_collection 5,0,1,6,0
+collection 5,flo,1,chocolate mini rolls,3,9,NA,1,collection 51,-0.9707253433941511,0.18181818181818182,1,1,0,0,0,0,-1.379022382907178,0.14356435643564358,0,0,0,flo_collection 5,1,1,3,0
+collection 5,stacey,1,chocolate mini rolls,4,11,NA,1,collection 51,-0.6933752452815365,0.2727272727272727,2,0,1,0,0,0,-2.0486756520469034,0.04785478547854782,0,0,0,stacey_collection 5,1,1,9,0
+collection 5,peter,1,chocolate mini rolls,5,10,NA,1,collection 51,-0.41602514716892186,0.36363636363636365,2,0,1,0,0,0,-1.7138490174770407,0.08910891089108908,0,0,1,peter_collection 5,1,1,1,1
+collection 5,kate,1,chocolate mini rolls,6,1,NA,1,collection 51,-0.1386750490563073,0.4545454545454546,2,0,1,0,0,0,1.2995906936517247,1,0,0,1,kate_collection 5,0,1,NA,0
+collection 5,liam,1,chocolate mini rolls,7,8,NA,1,collection 51,0.1386750490563073,0.5454545454545455,3,0,0,1,0,0,-1.0441957483373152,0.20792079207920788,0,0,1,liam_collection 5,0,1,8,0
+collection 5,tom,1,chocolate mini rolls,8,7,NA,1,collection 51,0.41602514716892186,0.6363636363636365,3,0,0,1,0,0,-0.7093691137674523,0.28712871287128716,0,0,1,tom_collection 5,0,1,4,0
+collection 5,chris,1,chocolate mini rolls,9,12,NA,1,collection 51,0.6933752452815365,0.7272727272727274,3,0,0,1,0,0,-2.3835022866167663,0.018151815181518205,0,0,0,chris_collection 5,1,1,2,0
+collection 5,james,1,chocolate mini rolls,10,2,NA,1,collection 51,0.9707253433941511,0.8181818181818183,4,0,0,0,1,0,0.9647640590818618,0.8679867986798679,0,0,0,james_collection 5,0,1,5,0
+collection 5,sophie,1,chocolate mini rolls,11,5,NA,1,collection 51,1.2480754415067656,0.9090909090909093,4,0,0,0,1,0,-0.03971584462772664,0.48679867986798675,0,0,0,sophie_collection 5,0,1,NA,0
+collection 5,steven,1,chocolate mini rolls,12,6,NA,1,collection 51,1.52542553961938,1.0000000000000002,4,0,0,0,1,0,-0.3745424791975895,0.3795379537953796,0,1,0,steven_collection 5,0,1,NA,0
+collection 5,julia,2,fortune cookies,1,4,NA,1,collection 52,-1.507556722888818,0,1,1,0,0,0,0,0.2951107899421362,0.6039603960396039,1,0,0,julia_collection 5,0,1,6,0
+collection 5,steven,2,fortune cookies,2,6,NA,1,collection 52,-1.2060453783110545,0.1,1,1,0,0,0,0,-0.3745424791975895,0.3795379537953796,0,0,0,steven_collection 5,0,1,NA,0
+collection 5,kate,2,fortune cookies,3,8,NA,1,collection 52,-0.9045340337332909,0.2,1,1,0,0,0,0,-1.0441957483373152,0.20792079207920788,0,0,0,kate_collection 5,0,1,NA,0
+collection 5,chris,2,fortune cookies,4,11,NA,1,collection 52,-0.6030226891555273,0.30000000000000004,2,0,1,0,0,0,-2.0486756520469034,0.04785478547854782,0,0,0,chris_collection 5,1,1,2,1
+collection 5,tom,2,fortune cookies,5,5,NA,1,collection 52,-0.30151134457776363,0.4,2,0,1,0,0,0,-0.03971584462772664,0.48679867986798675,0,0,1,tom_collection 5,0,1,4,0
+collection 5,stacey,2,fortune cookies,6,2,NA,1,collection 52,0,0.5,2,0,1,0,0,0,0.9647640590818618,0.8679867986798679,0,0,1,stacey_collection 5,0,1,9,0
+collection 5,james,2,fortune cookies,7,3,NA,1,collection 52,0.30151134457776363,0.6,3,0,0,1,0,0,0.629937424511999,0.7343234323432344,0,0,1,james_collection 5,0,1,5,0
+collection 5,sophie,2,fortune cookies,8,9,NA,1,collection 52,0.6030226891555273,0.7,3,0,0,1,0,0,-1.379022382907178,0.14356435643564358,0,0,1,sophie_collection 5,1,1,NA,0
+collection 5,liam,2,fortune cookies,9,7,NA,1,collection 52,0.9045340337332909,0.7999999999999999,3,0,0,1,0,0,-0.7093691137674523,0.28712871287128716,0,0,0,liam_collection 5,0,1,8,0
+collection 5,flo,2,fortune cookies,10,10,NA,1,collection 52,1.2060453783110545,0.8999999999999999,4,0,0,0,1,0,-1.7138490174770407,0.08910891089108908,0,0,0,flo_collection 5,1,1,3,0
+collection 5,yan,2,fortune cookies,11,1,NA,1,collection 52,1.507556722888818,0.9999999999999999,4,0,0,0,1,0,1.2995906936517247,1,0,1,0,yan_collection 5,0,1,7,0
+collection 5,julia,3,cottage loaf,1,2,NA,0,collection 53,-1.4863010829205867,0,1,1,0,0,0,0,0.9647640590818618,0.8679867986798679,1,0,0,julia_collection 5,0,1,6,0
+collection 5,stacey,3,cottage loaf,2,1,NA,0,collection 53,-1.1560119533826787,0.1111111111111111,1,1,0,0,0,0,1.2995906936517247,1,0,0,0,stacey_collection 5,0,1,9,0
+collection 5,flo,3,cottage loaf,3,7,NA,0,collection 53,-0.8257228238447705,0.2222222222222222,1,1,0,0,0,0,-0.7093691137674523,0.28712871287128716,0,0,0,flo_collection 5,0,1,3,1
+collection 5,tom,3,cottage loaf,4,4,NA,0,collection 53,-0.49543369430686224,0.3333333333333333,2,0,1,0,0,0,0.2951107899421362,0.6039603960396039,0,0,0,tom_collection 5,0,1,4,0
+collection 5,liam,3,cottage loaf,5,5,NA,0,collection 53,-0.1651445647689541,0.4444444444444444,2,0,1,0,0,0,-0.03971584462772664,0.48679867986798675,0,0,1,liam_collection 5,0,1,8,0
+collection 5,kate,3,cottage loaf,6,10,NA,0,collection 53,0.1651445647689541,0.5555555555555556,3,0,0,1,0,0,-1.7138490174770407,0.08910891089108908,0,0,1,kate_collection 5,1,1,NA,0
+collection 5,sophie,3,cottage loaf,7,6,NA,0,collection 53,0.49543369430686224,0.6666666666666667,3,0,0,1,0,0,-0.3745424791975895,0.3795379537953796,0,0,1,sophie_collection 5,0,1,NA,0
+collection 5,james,3,cottage loaf,8,9,NA,0,collection 53,0.8257228238447705,0.7777777777777779,3,0,0,1,0,0,-1.379022382907178,0.14356435643564358,0,0,0,james_collection 5,1,1,5,0
+collection 5,steven,3,cottage loaf,9,3,NA,0,collection 53,1.1560119533826787,0.8888888888888891,4,0,0,0,1,0,0.629937424511999,0.7343234323432344,0,0,0,steven_collection 5,0,1,NA,0
+collection 5,yan,3,cottage loaf,10,8,NA,0,collection 53,1.4863010829205867,1.0000000000000002,4,0,0,0,1,0,-1.0441957483373152,0.20792079207920788,0,1,0,yan_collection 5,1,1,7,0
+collection 5,sophie,4,stroopwaffles,1,4,NA,1,collection 54,-1.4605934866804429,0,1,1,0,0,0,0,0.2951107899421362,0.6039603960396039,1,0,0,sophie_collection 5,0,1,NA,0
+collection 5,james,4,stroopwaffles,2,2,NA,1,collection 54,-1.0954451150103321,0.125,1,1,0,0,0,0,0.9647640590818618,0.8679867986798679,0,0,0,james_collection 5,0,1,5,0
+collection 5,yan,4,stroopwaffles,3,8,NA,1,collection 54,-0.7302967433402214,0.25,1,1,0,0,0,0,-1.0441957483373152,0.20792079207920788,0,0,0,yan_collection 5,1,1,7,0
+collection 5,liam,4,stroopwaffles,4,3,NA,1,collection 54,-0.3651483716701107,0.375,2,0,1,0,0,0,0.629937424511999,0.7343234323432344,0,0,1,liam_collection 5,0,1,8,0
+collection 5,steven,4,stroopwaffles,5,7,NA,1,collection 54,0,0.5,2,0,1,0,0,0,-0.7093691137674523,0.28712871287128716,0,0,1,steven_collection 5,1,1,NA,0
+collection 5,stacey,4,stroopwaffles,6,1,NA,1,collection 54,0.3651483716701107,0.625,3,0,0,1,0,0,1.2995906936517247,1,0,0,1,stacey_collection 5,0,1,9,0
+collection 5,kate,4,stroopwaffles,7,6,NA,1,collection 54,0.7302967433402214,0.75,3,0,0,1,0,0,-0.3745424791975895,0.3795379537953796,0,0,0,kate_collection 5,0,1,NA,0
+collection 5,tom,4,stroopwaffles,8,5,NA,1,collection 54,1.0954451150103321,0.875,4,0,0,0,1,0,-0.03971584462772664,0.48679867986798675,0,0,0,tom_collection 5,0,1,4,1
+collection 5,julia,4,stroopwaffles,9,9,NA,1,collection 54,1.4605934866804429,1,4,0,0,0,1,0,-1.379022382907178,0.14356435643564358,0,1,0,julia_collection 5,1,1,6,0
+collection 5,julia,5,molten chocolate pudding,1,3,NA,1,collection 55,-1.4288690166235207,0,1,1,0,0,0,0,0.629937424511999,0.7343234323432344,1,0,0,julia_collection 5,0,1,6,0
+collection 5,sophie,5,molten chocolate pudding,2,1,NA,1,collection 55,-1.0206207261596576,0.14285714285714285,1,1,0,0,0,0,1.2995906936517247,1,0,0,0,sophie_collection 5,0,1,NA,0
+collection 5,liam,5,molten chocolate pudding,3,2,NA,1,collection 55,-0.6123724356957946,0.2857142857142857,2,0,1,0,0,0,0.9647640590818618,0.8679867986798679,0,0,0,liam_collection 5,0,1,8,0
+collection 5,steven,5,molten chocolate pudding,4,5,NA,1,collection 55,-0.20412414523193154,0.42857142857142855,2,0,1,0,0,0,-0.03971584462772664,0.48679867986798675,0,0,1,steven_collection 5,0,1,NA,0
+collection 5,yan,5,molten chocolate pudding,5,6,NA,1,collection 55,0.20412414523193154,0.5714285714285714,3,0,0,1,0,0,-0.3745424791975895,0.3795379537953796,0,0,1,yan_collection 5,0,1,7,0
+collection 5,kate,5,molten chocolate pudding,6,8,NA,1,collection 55,0.6123724356957946,0.7142857142857142,3,0,0,1,0,0,-1.0441957483373152,0.20792079207920788,0,0,1,kate_collection 5,1,1,NA,0
+collection 5,james,5,molten chocolate pudding,7,7,NA,1,collection 55,1.0206207261596576,0.857142857142857,4,0,0,0,1,0,-0.7093691137674523,0.28712871287128716,0,0,0,james_collection 5,1,1,5,1
+collection 5,stacey,5,molten chocolate pudding,8,4,NA,1,collection 55,1.4288690166235207,0.9999999999999998,4,0,0,0,1,0,0.2951107899421362,0.6039603960396039,0,1,0,stacey_collection 5,0,1,9,0
+collection 5,sophie,6,pasteis de nata,1,2,NA,1,collection 56,-1.3887301496588271,0,1,1,0,0,0,0,0.9647640590818618,0.8679867986798679,1,0,0,sophie_collection 5,0,1,NA,0
+collection 5,kate,6,pasteis de nata,2,5,NA,1,collection 56,-0.9258200997725514,0.16666666666666666,1,1,0,0,0,0,-0.03971584462772664,0.48679867986798675,0,0,0,kate_collection 5,0,1,NA,0
+collection 5,liam,6,pasteis de nata,3,4,NA,1,collection 56,-0.4629100498862757,0.3333333333333333,2,0,1,0,0,0,0.2951107899421362,0.6039603960396039,0,0,0,liam_collection 5,0,1,8,0
+collection 5,stacey,6,pasteis de nata,4,6,NA,1,collection 56,0,0.5,2,0,1,0,0,0,-0.3745424791975895,0.3795379537953796,0,0,1,stacey_collection 5,1,1,9,0
+collection 5,steven,6,pasteis de nata,5,3,NA,1,collection 56,0.4629100498862757,0.6666666666666666,3,0,0,1,0,0,0.629937424511999,0.7343234323432344,0,0,1,steven_collection 5,0,1,NA,0
+collection 5,yan,6,pasteis de nata,6,1,NA,1,collection 56,0.9258200997725514,0.8333333333333333,3,0,0,1,0,0,1.2995906936517247,1,0,0,0,yan_collection 5,0,1,7,0
+collection 5,julia,6,pasteis de nata,7,7,NA,1,collection 56,1.3887301496588271,0.9999999999999999,4,0,0,0,1,0,-0.7093691137674523,0.28712871287128716,0,1,0,julia_collection 5,1,1,6,1
+collection 5,liam,7,pizza,1,2,NA,0,collection 57,-1.3363062095621219,0,1,1,0,0,0,0,0.9647640590818618,0.8679867986798679,1,0,0,liam_collection 5,0,1,8,0
+collection 5,sophie,7,pizza,2,3,NA,0,collection 57,-0.8017837257372732,0.2,1,1,0,0,0,0,0.629937424511999,0.7343234323432344,0,0,0,sophie_collection 5,0,1,NA,0
+collection 5,kate,7,pizza,3,6,NA,0,collection 57,-0.2672612419124244,0.4,2,0,1,0,0,0,-0.3745424791975895,0.3795379537953796,0,0,1,kate_collection 5,1,1,NA,0
+collection 5,stacey,7,pizza,4,4,NA,0,collection 57,0.2672612419124244,0.6000000000000001,3,0,0,1,0,0,0.2951107899421362,0.6039603960396039,0,0,1,stacey_collection 5,0,1,9,0
+collection 5,steven,7,pizza,5,1,NA,0,collection 57,0.8017837257372732,0.8,3,0,0,1,0,0,1.2995906936517247,1,0,0,0,steven_collection 5,0,1,NA,0
+collection 5,yan,7,pizza,6,5,NA,0,collection 57,1.3363062095621219,1,4,0,0,0,1,0,-0.03971584462772664,0.48679867986798675,0,1,0,yan_collection 5,1,1,7,1
+collection 5,sophie,8,rum nicky,2,4,NA,1,collection 58,-0.6324555320336759,0.25,1,1,0,0,0,0,0.2951107899421362,0.6039603960396039,0,0,0,sophie_collection 5,0,1,NA,0
+collection 5,liam,8,rum nicky,1,5,NA,1,collection 58,-1.2649110640673518,0,1,1,0,0,0,0,-0.03971584462772664,0.48679867986798675,1,0,0,liam_collection 5,1,1,8,1
+collection 5,steven,8,rum nicky,3,1,NA,1,collection 58,0,0.5,2,0,1,0,0,0,1.2995906936517247,1,0,0,1,steven_collection 5,0,1,NA,0
+collection 5,stacey,8,rum nicky,4,3,NA,1,collection 58,0.6324555320336759,0.75,3,0,0,1,0,0,0.629937424511999,0.7343234323432344,0,0,1,stacey_collection 5,0,1,9,0
+collection 5,kate,8,rum nicky,5,2,NA,1,collection 58,1.2649110640673518,1,4,0,0,0,1,0,0.9647640590818618,0.8679867986798679,0,1,0,kate_collection 5,0,1,NA,0
+collection 5,steven,9,les miserables,4,3,NA,1,collection 59,1.161895003862225,1,4,0,0,0,1,0,0.629937424511999,0.7343234323432344,0,1,0,steven_collection 5,0,1,NA,0
+collection 5,kate,9,les miserables,3,4,NA,1,collection 59,0.3872983346207417,0.6666666666666666,3,0,0,1,0,0,0.2951107899421362,0.6039603960396039,0,0,1,kate_collection 5,1,1,NA,0
+collection 5,sophie,9,les miserables,2,1,NA,1,collection 59,-0.3872983346207417,0.3333333333333333,2,0,1,0,0,0,1.2995906936517247,1,0,0,0,sophie_collection 5,0,1,NA,0
+collection 5,stacey,9,les miserables,1,2,NA,1,collection 59,-1.161895003862225,0,1,1,0,0,0,0,0.9647640590818618,0.8679867986798679,1,0,0,stacey_collection 5,0,1,9,1
+collection 5,kate,10,ginger biscuits,2,3,NA,1,collection 510,0,0.5,2,0,1,0,0,0,0.629937424511999,0.7343234323432344,0,0,1,kate_collection 5,1,1,NA,0
+collection 5,sophie,10,ginger biscuits,3,2,NA,1,collection 510,1,1,3,0,0,1,0,0,0.9647640590818618,0.8679867986798679,0,1,0,sophie_collection 5,0,1,NA,0
+collection 5,steven,10,ginger biscuits,1,1,NA,1,collection 510,-1,0,1,1,0,0,0,0,1.2995906936517247,1,1,0,0,steven_collection 5,0,1,NA,0
+collection 6,antony,1,wagon wheel,3,12,NA,1,collection 61,-0.8591845279893067,0.25,1,1,0,0,0,0,-2.3835022866167663,0.018151815181518205,0,0,0,antony_collection 6,1,1,3,0
+collection 6,briony,1,wagon wheel,12,2,NA,1,collection 61,1.592634734809446,1,4,0,0,0,1,0,0.9647640590818618,0.8679867986798679,0,1,0,briony_collection 6,0,1,9,0
+collection 6,dan,1,wagon wheel,1,5,NA,1,collection 61,-1.404033253055696,0,1,1,0,0,0,0,-0.03971584462772664,0.48679867986798675,1,0,0,dan_collection 6,0,1,6,0
+collection 6,imelda,1,wagon wheel,2,11,NA,1,collection 61,-1.1316088905225015,0.08333333333333333,1,1,0,0,0,0,-2.0486756520469034,0.04785478547854782,0,0,0,imelda_collection 6,1,1,1,1
+collection 6,jon,1,wagon wheel,6,5,NA,1,collection 61,-0.04191144038972236,0.49999999999999994,2,0,1,0,0,0,-0.03971584462772664,0.48679867986798675,0,0,1,jon_collection 6,0,1,7,0
+collection 6,karen,1,wagon wheel,9,6,NA,1,collection 61,0.7753616472098619,0.75,3,0,0,1,0,0,-0.3745424791975895,0.3795379537953796,0,0,0,karen_collection 6,0,1,5,0
+collection 6,kim-joy,1,wagon wheel,7,10,NA,1,collection 61,0.23051292214347238,0.5833333333333333,3,0,0,1,0,0,-1.7138490174770407,0.08910891089108908,0,0,1,kim-joy_collection 6,1,1,9,0
+collection 6,luke,1,wagon wheel,4,8,NA,1,collection 61,-0.5867601654561119,0.3333333333333333,2,0,1,0,0,0,-1.0441957483373152,0.20792079207920788,0,0,0,luke_collection 6,0,1,2,0
+collection 6,manon,1,wagon wheel,5,3,NA,1,collection 61,-0.31433580292291713,0.41666666666666663,2,0,1,0,0,0,0.629937424511999,0.7343234323432344,0,0,1,manon_collection 6,0,1,8,0
+collection 6,rahul,1,wagon wheel,11,7,NA,1,collection 61,1.3202103722762515,0.9166666666666667,4,0,0,0,1,0,-0.7093691137674523,0.28712871287128716,0,0,0,rahul_collection 6,0,1,9,0
+collection 6,ruby,1,wagon wheel,8,1,NA,1,collection 61,0.5029372846766671,0.6666666666666666,3,0,0,1,0,0,1.2995906936517247,1,0,0,1,ruby_collection 6,0,1,9,0
+collection 6,terry,1,wagon wheel,10,9,NA,1,collection 61,1.0477860097430567,0.8333333333333334,4,0,0,0,1,0,-1.379022382907178,0.14356435643564358,0,0,0,terry_collection 6,1,1,5,0
+collection 6,antony,2,le gateau vert,11,9,NA,1,collection 62,1.5582557298274986,1.0000000000000002,4,0,0,0,1,0,-1.379022382907178,0.14356435643564358,0,1,0,antony_collection 6,1,1,3,0
+collection 6,briony,2,le gateau vert,2,5,NA,1,collection 62,-1.0308460981935759,0.18181818181818182,1,1,0,0,0,0,-0.03971584462772664,0.48679867986798675,0,0,0,briony_collection 6,0,1,9,0
+collection 6,dan,2,le gateau vert,10,3,NA,1,collection 62,1.2705777489362682,0.9090909090909093,4,0,0,0,1,0,0.629937424511999,0.7343234323432344,0,0,0,dan_collection 6,0,1,6,0
+collection 6,jon,2,le gateau vert,1,1,NA,1,collection 62,-1.3185240790848065,0,1,1,0,0,0,0,1.2995906936517247,1,1,0,0,jon_collection 6,0,1,7,0
+collection 6,karen,2,le gateau vert,8,11,NA,1,collection 62,0.6952217871538071,0.7272727272727274,3,0,0,1,0,0,-2.0486756520469034,0.04785478547854782,0,0,0,karen_collection 6,1,1,5,0
+collection 6,kim-joy,2,le gateau vert,4,4,NA,1,collection 62,-0.4554901364111149,0.36363636363636365,2,0,1,0,0,0,0.2951107899421362,0.6039603960396039,0,0,1,kim-joy_collection 6,0,1,9,0
+collection 6,luke,2,le gateau vert,5,7,NA,1,collection 62,-0.16781215551988438,0.4545454545454546,2,0,1,0,0,0,-0.7093691137674523,0.28712871287128716,0,0,1,luke_collection 6,0,1,2,1
+collection 6,manon,2,le gateau vert,6,6,NA,1,collection 62,0.11986582537134613,0.5454545454545455,3,0,0,1,0,0,-0.3745424791975895,0.3795379537953796,0,0,1,manon_collection 6,0,1,8,0
+collection 6,rahul,2,le gateau vert,9,2,NA,1,collection 62,0.9828997680450376,0.8181818181818183,4,0,0,0,1,0,0.9647640590818618,0.8679867986798679,0,0,0,rahul_collection 6,0,1,9,0
+collection 6,ruby,2,le gateau vert,7,10,NA,1,collection 62,0.40754380626257664,0.6363636363636365,3,0,0,1,0,0,-1.7138490174770407,0.08910891089108908,0,0,1,ruby_collection 6,1,1,9,0
+collection 6,terry,2,le gateau vert,3,8,NA,1,collection 62,-0.7431681173023454,0.2727272727272727,2,0,1,0,0,0,-1.0441957483373152,0.20792079207920788,0,0,0,terry_collection 6,1,1,5,0
+collection 6,antony,3,naan bread,4,8,NA,0,collection 63,-0.4285937424458388,0.4,2,0,1,0,0,0,-1.0441957483373152,0.20792079207920788,0,0,1,antony_collection 6,1,1,3,1
+collection 6,briony,3,naan bread,10,9,NA,0,collection 63,1.5919196147988302,0.9999999999999999,4,0,0,0,1,0,-1.379022382907178,0.14356435643564358,0,1,0,briony_collection 6,1,1,9,0
+collection 6,dan,3,naan bread,7,6,NA,0,collection 63,0.5816629361764957,0.7,3,0,0,1,0,0,-0.3745424791975895,0.3795379537953796,0,0,1,dan_collection 6,0,1,6,0
+collection 6,jon,3,naan bread,2,2,NA,0,collection 63,-1.1020981948607285,0.1,1,1,0,0,0,0,0.9647640590818618,0.8679867986798679,0,0,0,jon_collection 6,0,1,7,0
+collection 6,karen,3,naan bread,6,5,NA,0,collection 63,0.24491070996905087,0.6,3,0,0,1,0,0,-0.03971584462772664,0.48679867986798675,0,0,1,karen_collection 6,0,1,5,0
+collection 6,kim-joy,3,naan bread,9,10,NA,0,collection 63,1.2551673885913854,0.8999999999999999,4,0,0,0,1,0,-1.7138490174770407,0.08910891089108908,0,0,0,kim-joy_collection 6,1,1,9,0
+collection 6,manon,3,naan bread,3,3,NA,0,collection 63,-0.7653459686532836,0.2,1,1,0,0,0,0,0.629937424511999,0.7343234323432344,0,0,0,manon_collection 6,0,1,8,0
+collection 6,rahul,3,naan bread,8,4,NA,0,collection 63,0.9184151623839405,0.7999999999999999,3,0,0,1,0,0,0.2951107899421362,0.6039603960396039,0,0,0,rahul_collection 6,0,1,9,0
+collection 6,ruby,3,naan bread,1,7,NA,0,collection 63,-1.4388504210681732,0,1,1,0,0,0,0,-0.7093691137674523,0.28712871287128716,1,0,0,ruby_collection 6,0,1,9,0
+collection 6,terry,3,naan bread,5,1,NA,0,collection 63,-0.09184151623839396,0.5,2,0,1,0,0,0,1.2995906936517247,1,0,0,1,terry_collection 6,0,1,5,0
+collection 6,briony,4,blancmange and langue du chat,4,5,NA,1,collection 64,-0.20412414523193154,0.42857142857142855,2,0,1,0,0,0,-0.03971584462772664,0.48679867986798675,0,NA,1,briony_collection 6,0,1,9,0
+collection 6,dan,4,blancmange and langue du chat,8,1,NA,1,collection 64,1.4288690166235207,0.9999999999999998,4,0,0,0,1,0,1.2995906936517247,1,0,NA,0,dan_collection 6,0,1,6,0
+collection 6,jon,4,blancmange and langue du chat,6,3,NA,1,collection 64,0.6123724356957946,0.7142857142857142,3,0,0,1,0,0,0.629937424511999,0.7343234323432344,0,NA,1,jon_collection 6,0,1,7,0
+collection 6,karen,4,blancmange and langue du chat,2,7,NA,1,collection 64,-1.0206207261596576,0.14285714285714285,1,1,0,0,0,0,-0.7093691137674523,0.28712871287128716,0,NA,0,karen_collection 6,1,1,5,0
+collection 6,kim-joy,4,blancmange and langue du chat,1,6,NA,1,collection 64,-1.4288690166235207,0,1,1,0,0,0,0,-0.3745424791975895,0.3795379537953796,1,NA,0,kim-joy_collection 6,0,1,9,0
+collection 6,manon,4,blancmange and langue du chat,5,8,NA,1,collection 64,0.20412414523193154,0.5714285714285714,3,0,0,1,0,0,-1.0441957483373152,0.20792079207920788,0,NA,1,manon_collection 6,1,1,8,0
+collection 6,rahul,4,blancmange and langue du chat,3,4,NA,1,collection 64,-0.6123724356957946,0.2857142857142857,2,0,1,0,0,0,0.2951107899421362,0.6039603960396039,0,NA,0,rahul_collection 6,0,1,9,0
+collection 6,ruby,4,blancmange and langue du chat,7,2,NA,1,collection 64,1.0206207261596576,0.857142857142857,4,0,0,0,1,0,0.9647640590818618,0.8679867986798679,0,NA,0,ruby_collection 6,0,1,9,0
+collection 6,terry,4,blancmange and langue du chat,NA,NA,did not compete,1,collection 64,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,terry_collection 6,NA,1,5,0
+collection 6,briony,5,ma'amoul,2,6,NA,1,collection 65,-1.0954451150103321,0.125,1,1,0,0,0,0,-0.3745424791975895,0.3795379537953796,0,0,0,briony_collection 6,0,1,9,0
+collection 6,dan,5,ma'amoul,8,2,NA,1,collection 65,1.0954451150103321,0.875,4,0,0,0,1,0,0.9647640590818618,0.8679867986798679,0,0,0,dan_collection 6,0,1,6,0
+collection 6,jon,5,ma'amoul,1,7,NA,1,collection 65,-1.4605934866804429,0,1,1,0,0,0,0,-0.7093691137674523,0.28712871287128716,1,0,0,jon_collection 6,1,1,7,0
+collection 6,karen,5,ma'amoul,6,9,NA,1,collection 65,0.3651483716701107,0.625,3,0,0,1,0,0,-1.379022382907178,0.14356435643564358,0,0,1,karen_collection 6,1,1,5,1
+collection 6,kim-joy,5,ma'amoul,7,4,NA,1,collection 65,0.7302967433402214,0.75,3,0,0,1,0,0,0.2951107899421362,0.6039603960396039,0,0,0,kim-joy_collection 6,0,1,9,0
+collection 6,manon,5,ma'amoul,4,5,NA,1,collection 65,-0.3651483716701107,0.375,2,0,1,0,0,0,-0.03971584462772664,0.48679867986798675,0,0,1,manon_collection 6,0,1,8,0
+collection 6,rahul,5,ma'amoul,5,3,NA,1,collection 65,0,0.5,2,0,1,0,0,0,0.629937424511999,0.7343234323432344,0,0,1,rahul_collection 6,0,1,9,0
+collection 6,ruby,5,ma'amoul,9,1,NA,1,collection 65,1.4605934866804429,1,4,0,0,0,1,0,1.2995906936517247,1,0,1,0,ruby_collection 6,0,1,9,0
+collection 6,terry,5,ma'amoul,3,8,NA,1,collection 65,-0.7302967433402214,0.25,1,1,0,0,0,0,-1.0441957483373152,0.20792079207920788,0,0,0,terry_collection 6,1,1,5,1
+collection 6,briony,6,puits d'amour,7,1,NA,1,collection 66,1.3887301496588271,0.9999999999999999,4,0,0,0,1,0,1.2995906936517247,1,0,1,0,briony_collection 6,0,1,9,0
+collection 6,dan,6,puits d'amour,6,6,NA,1,collection 66,0.9258200997725514,0.8333333333333333,3,0,0,1,0,0,-0.3745424791975895,0.3795379537953796,0,0,0,dan_collection 6,1,1,6,1
+collection 6,jon,6,puits d'amour,2,2,NA,1,collection 66,-0.9258200997725514,0.16666666666666666,1,1,0,0,0,0,0.9647640590818618,0.8679867986798679,0,0,0,jon_collection 6,0,1,7,0
+collection 6,kim-joy,6,puits d'amour,3,5,NA,1,collection 66,-0.4629100498862757,0.3333333333333333,2,0,1,0,0,0,-0.03971584462772664,0.48679867986798675,0,0,0,kim-joy_collection 6,0,1,9,0
+collection 6,manon,6,puits d'amour,1,4,NA,1,collection 66,-1.3887301496588271,0,1,1,0,0,0,0,0.2951107899421362,0.6039603960396039,1,0,0,manon_collection 6,0,1,8,0
+collection 6,rahul,6,puits d'amour,5,3,NA,1,collection 66,0.4629100498862757,0.6666666666666666,3,0,0,1,0,0,0.629937424511999,0.7343234323432344,0,0,1,rahul_collection 6,0,1,9,0
+collection 6,ruby,6,puits d'amour,4,7,NA,1,collection 66,0,0.5,2,0,1,0,0,0,-0.7093691137674523,0.28712871287128716,0,0,1,ruby_collection 6,1,1,9,0
+collection 6,briony,7,pavlova,4,5,NA,1,collection 67,0.2672612419124244,0.6000000000000001,3,0,0,1,0,0,-0.03971584462772664,0.48679867986798675,0,0,1,briony_collection 6,1,1,9,0
+collection 6,jon,7,pavlova,3,4,NA,1,collection 67,-0.2672612419124244,0.4,2,0,1,0,0,0,0.2951107899421362,0.6039603960396039,0,0,1,jon_collection 6,0,1,7,1
+collection 6,kim-joy,7,pavlova,1,6,NA,1,collection 67,-1.3363062095621219,0,1,1,0,0,0,0,-0.3745424791975895,0.3795379537953796,1,0,0,kim-joy_collection 6,1,1,9,0
+collection 6,manon,7,pavlova,6,2,NA,1,collection 67,1.3363062095621219,1,4,0,0,0,1,0,0.9647640590818618,0.8679867986798679,0,1,0,manon_collection 6,0,1,8,0
+collection 6,rahul,7,pavlova,2,1,NA,1,collection 67,-0.8017837257372732,0.2,1,1,0,0,0,0,1.2995906936517247,1,0,0,0,rahul_collection 6,0,1,9,0
+collection 6,ruby,7,pavlova,5,3,NA,1,collection 67,0.8017837257372732,0.8,3,0,0,1,0,0,0.629937424511999,0.7343234323432344,0,0,0,ruby_collection 6,0,1,9,0
+collection 6,briony,8,ebieskiver,2,1,NA,1,collection 68,-0.6324555320336759,0.25,1,1,0,0,0,0,1.2995906936517247,1,0,0,0,briony_collection 6,0,1,9,0
+collection 6,kim-joy,8,ebieskiver,3,2,NA,1,collection 68,0,0.5,2,0,1,0,0,0,0.9647640590818618,0.8679867986798679,0,0,1,kim-joy_collection 6,0,1,9,0
+collection 6,manon,8,ebieskiver,5,4,NA,1,collection 68,1.2649110640673518,1,4,0,0,0,1,0,0.2951107899421362,0.6039603960396039,0,1,0,manon_collection 6,0,1,8,1
+collection 6,rahul,8,ebieskiver,4,5,NA,1,collection 68,0.6324555320336759,0.75,3,0,0,1,0,0,-0.03971584462772664,0.48679867986798675,0,0,1,rahul_collection 6,1,1,9,0
+collection 6,ruby,8,ebieskiver,1,3,NA,1,collection 68,-1.2649110640673518,0,1,1,0,0,0,0,0.629937424511999,0.7343234323432344,1,0,0,ruby_collection 6,0,1,9,0
+collection 6,briony,9,torta setteveli,1,3,NA,1,collection 69,-1.390758974918296,0,1,1,0,0,0,0,0.629937424511999,0.7343234323432344,1,0,0,briony_collection 6,0,1,9,1
+collection 6,kim-joy,9,torta setteveli,3,2,NA,1,collection 69,0.1986798535597566,0.3333333333333333,2,0,1,0,0,0,0.9647640590818618,0.8679867986798679,0,0,0,kim-joy_collection 6,0,1,9,1
+collection 6,rahul,9,torta setteveli,4,4,NA,1,collection 69,0.9933992677987828,1,4,0,0,0,1,0,0.2951107899421362,0.6039603960396039,0,1,0,rahul_collection 6,1,1,9,1
+collection 6,ruby,9,torta setteveli,3,1,NA,1,collection 69,0.1986798535597566,0.3333333333333333,3,0,0,1,0,0,1.2995906936517247,1,0,0,1,ruby_collection 6,0,1,9,1
+collection 6,kim-joy,1,campfire pita,2,1,NA,0,collection 61,-1.1316088905225015,0.08333333333333333,1,1,0,0,0,0,1.2995906936517247,1,0,0,0,kim-joy_collection 6,0,1,9,0
+collection 6,rahul,2,campfire pita,1,2,NA,0,collection 62,-1.3185240790848065,0,1,1,0,0,0,0,0.9647640590818618,0.8679867986798679,1,0,0,rahul_collection 6,0,1,9,0
+collection 6,ruby,3,campfire pita,3,3,NA,0,collection 63,-0.7653459686532836,0.2,2,0,1,0,0,0,0.629937424511999,0.7343234323432344,0,0,0,ruby_collection 6,0,1,9,0
+collection 7,alice,1,angel cake,3,5,NA,1,collection 71,-1.027105182026191,0.16666666666666666,1,1,0,0,0,0,-0.03971584462772664,0.48679867986798675,0,0,0,alice_collection 7,0,1,NA,0
+collection 7,amelia,1,angel cake,5,4,NA,1,collection 71,-0.5135525910130955,0.3333333333333333,2,0,1,0,0,0,0.2951107899421362,0.6039603960396039,0,0,0,amelia_collection 7,0,1,3,0
+collection 7,david,1,angel cake,2,10,NA,1,collection 71,-1.2838814775327387,0.08333333333333333,1,1,0,0,0,0,-1.7138490174770407,0.08910891089108908,0,0,0,david_collection 7,1,1,NA,0
+collection 7,dan,1,angel cake,7,9,NA,1,collection 71,0,0.49999999999999994,2,0,1,0,0,0,-1.379022382907178,0.14356435643564358,0,0,1,dan_collection 7,0,1,1,1
+collection 7,helena,1,angel cake,1,12,NA,1,collection 71,-1.5406577730392865,0,1,1,0,0,0,0,-2.3835022866167663,0.018151815181518205,1,0,0,helena_collection 7,1,1,5,0
+collection 7,henry,1,angel cake,12,1,NA,1,collection 71,1.2838814775327387,0.9166666666666667,4,0,0,0,1,0,1.2995906936517247,1,0,0,0,henry_collection 7,0,1,8,0
+collection 7,jamie,1,angel cake,4,13,NA,1,collection 71,-0.7703288865196433,0.25,1,1,0,0,0,0,-2.7183289211866293,0.0016501650165016146,0,0,0,jamie_collection 7,1,1,2,0
+collection 7,michael,1,angel cake,10,11,NA,1,collection 71,0.7703288865196433,0.75,3,0,0,1,0,0,-2.0486756520469034,0.04785478547854782,0,0,0,michael_collection 7,1,1,7,0
+collection 7,michelle,1,angel cake,13,6,NA,1,collection 71,1.5406577730392865,1,4,0,0,0,1,0,-0.3745424791975895,0.3795379537953796,0,1,0,michelle_collection 7,0,1,5,0
+collection 7,phil,1,angel cake,9,8,NA,1,collection 71,0.5135525910130955,0.6666666666666666,3,0,0,1,0,0,-1.0441957483373152,0.20792079207920788,0,0,1,phil_collection 7,0,1,4,0
+collection 7,priya,1,angel cake,8,7,NA,1,collection 71,0.25677629550654774,0.5833333333333333,3,0,0,1,0,0,-0.7093691137674523,0.28712871287128716,0,0,1,priya_collection 7,0,1,6,0
+collection 7,rosie,1,angel cake,6,2,NA,1,collection 71,-0.25677629550654774,0.41666666666666663,2,0,1,0,0,0,0.9647640590818618,0.8679867986798679,0,0,1,rosie_collection 7,0,1,9,0
+collection 7,steph,1,angel cake,11,3,NA,1,collection 71,1.027105182026191,0.8333333333333334,4,0,0,0,1,0,0.629937424511999,0.7343234323432344,0,0,0,steph_collection 7,0,1,NA,0
+collection 7,alice,2,fig rolls,2,1,NA,1,collection 72,-1.2480754415067656,0.09090909090909091,1,1,0,0,0,0,1.2995906936517247,1,0,0,0,alice_collection 7,0,1,NA,0
+collection 7,amelia,2,fig rolls,5,9,NA,1,collection 72,-0.41602514716892186,0.36363636363636365,2,0,1,0,0,0,-1.379022382907178,0.14356435643564358,0,0,1,amelia_collection 7,1,1,3,0
+collection 7,david,2,fig rolls,8,2,NA,1,collection 72,0.41602514716892186,0.6363636363636365,3,0,0,1,0,0,0.9647640590818618,0.8679867986798679,0,0,1,david_collection 7,0,1,NA,0
+collection 7,helena,2,fig rolls,9,12,NA,1,collection 72,0.6933752452815365,0.7272727272727274,3,0,0,1,0,0,-2.3835022866167663,0.018151815181518205,0,0,0,helena_collection 7,1,1,5,0
+collection 7,henry,2,fig rolls,3,6,NA,1,collection 72,-0.9707253433941511,0.18181818181818182,1,1,0,0,0,0,-0.3745424791975895,0.3795379537953796,0,0,0,henry_collection 7,0,1,8,0
+collection 7,jamie,2,fig rolls,10,11,NA,1,collection 72,0.9707253433941511,0.8181818181818183,4,0,0,0,1,0,-2.0486756520469034,0.04785478547854782,0,0,0,jamie_collection 7,1,1,2,1
+collection 7,michael,2,fig rolls,4,4,NA,1,collection 72,-0.6933752452815365,0.2727272727272727,2,0,1,0,0,0,0.2951107899421362,0.6039603960396039,0,0,0,michael_collection 7,0,1,7,0
+collection 7,michelle,2,fig rolls,11,8,NA,1,collection 72,1.2480754415067656,0.9090909090909093,4,0,0,0,1,0,-1.0441957483373152,0.20792079207920788,0,0,0,michelle_collection 7,0,1,5,0
+collection 7,phil,2,fig rolls,1,3,NA,1,collection 72,-1.52542553961938,0,1,1,0,0,0,0,0.629937424511999,0.7343234323432344,1,0,0,phil_collection 7,0,1,4,0
+collection 7,priya,2,fig rolls,6,7,NA,1,collection 72,-0.1386750490563073,0.4545454545454546,2,0,1,0,0,0,-0.7093691137674523,0.28712871287128716,0,0,1,priya_collection 7,0,1,6,0
+collection 7,rosie,2,fig rolls,7,5,NA,1,collection 72,0.1386750490563073,0.5454545454545455,3,0,0,1,0,0,-0.03971584462772664,0.48679867986798675,0,0,1,rosie_collection 7,0,1,9,0
+collection 7,steph,2,fig rolls,12,10,NA,1,collection 72,1.52542553961938,1.0000000000000002,4,0,0,0,1,0,-1.7138490174770407,0.08910891089108908,0,1,0,steph_collection 7,1,1,NA,0
+collection 7,alice,3,baps veggie burger,5,7,NA,0,collection 73,-0.30151134457776363,0.4,2,0,1,0,0,0,-0.7093691137674523,0.28712871287128716,0,0,1,alice_collection 7,0,1,NA,0
+collection 7,amelia,3,baps veggie burger,7,11,NA,0,collection 73,0.30151134457776363,0.6,3,0,0,1,0,0,-2.0486756520469034,0.04785478547854782,0,0,1,amelia_collection 7,1,1,3,1
+collection 7,david,3,baps veggie burger,6,2,NA,0,collection 73,0,0.5,2,0,1,0,0,0,0.9647640590818618,0.8679867986798679,0,0,1,david_collection 7,0,1,NA,0
+collection 7,helena,3,baps veggie burger,2,8,NA,0,collection 73,-1.2060453783110545,0.1,1,1,0,0,0,0,-1.0441957483373152,0.20792079207920788,0,0,0,helena_collection 7,0,1,5,0
+collection 7,henry,3,baps veggie burger,11,1,NA,0,collection 73,1.507556722888818,0.9999999999999999,4,0,0,0,1,0,1.2995906936517247,1,0,1,0,henry_collection 7,0,1,8,0
+collection 7,michael,3,baps veggie burger,9,6,NA,0,collection 73,0.9045340337332909,0.7999999999999999,3,0,0,1,0,0,-0.3745424791975895,0.3795379537953796,0,0,0,michael_collection 7,0,1,7,0
+collection 7,michelle,3,baps veggie burger,8,5,NA,0,collection 73,0.6030226891555273,0.7,3,0,0,1,0,0,-0.03971584462772664,0.48679867986798675,0,0,1,michelle_collection 7,0,1,5,0
+collection 7,phil,3,baps veggie burger,4,10,NA,0,collection 73,-0.6030226891555273,0.30000000000000004,2,0,1,0,0,0,-1.7138490174770407,0.08910891089108908,0,0,0,phil_collection 7,1,1,4,0
+collection 7,priya,3,baps veggie burger,10,4,NA,0,collection 73,1.2060453783110545,0.8999999999999999,4,0,0,0,1,0,0.2951107899421362,0.6039603960396039,0,0,0,priya_collection 7,0,1,6,0
+collection 7,rosie,3,baps veggie burger,3,9,NA,0,collection 73,-0.9045340337332909,0.2,1,1,0,0,0,0,-1.379022382907178,0.14356435643564358,0,0,0,rosie_collection 7,1,1,9,0
+collection 7,steph,3,baps veggie burger,1,3,NA,0,collection 73,-1.507556722888818,0,1,1,0,0,0,0,0.629937424511999,0.7343234323432344,1,0,0,steph_collection 7,0,1,NA,0
+collection 7,alice,4,maids of honour,3,8,NA,1,collection 74,-0.8257228238447705,0.2222222222222222,1,1,0,0,0,0,-1.0441957483373152,0.20792079207920788,0,0,0,alice_collection 7,1,1,NA,0
+collection 7,david,4,maids of honour,1,2,NA,1,collection 74,-1.4863010829205867,0,1,1,0,0,0,0,0.9647640590818618,0.8679867986798679,1,0,0,david_collection 7,0,1,NA,0
+collection 7,helena,4,maids of honour,6,9,NA,1,collection 74,0.1651445647689541,0.5555555555555556,3,0,0,1,0,0,-1.379022382907178,0.14356435643564358,0,0,1,helena_collection 7,1,1,5,0
+collection 7,henry,4,maids of honour,9,3,NA,1,collection 74,1.1560119533826787,0.8888888888888891,4,0,0,0,1,0,0.629937424511999,0.7343234323432344,0,0,0,henry_collection 7,0,1,8,0
+collection 7,michael,4,maids of honour,10,7,NA,1,collection 74,1.4863010829205867,1.0000000000000002,4,0,0,0,1,0,-0.7093691137674523,0.28712871287128716,0,1,0,michael_collection 7,0,1,7,0
+collection 7,michelle,4,maids of honour,2,5,NA,1,collection 74,-1.1560119533826787,0.1111111111111111,1,1,0,0,0,0,-0.03971584462772664,0.48679867986798675,0,0,0,michelle_collection 7,0,1,5,0
+collection 7,phil,4,maids of honour,7,6,NA,1,collection 74,0.49543369430686224,0.6666666666666667,3,0,0,1,0,0,-0.3745424791975895,0.3795379537953796,0,0,1,phil_collection 7,0,1,4,1
+collection 7,priya,4,maids of honour,4,10,NA,1,collection 74,-0.49543369430686224,0.3333333333333333,2,0,1,0,0,0,-1.7138490174770407,0.08910891089108908,0,0,0,priya_collection 7,1,1,6,0
+collection 7,rosie,4,maids of honour,5,4,NA,1,collection 74,-0.1651445647689541,0.4444444444444444,2,0,1,0,0,0,0.2951107899421362,0.6039603960396039,0,0,1,rosie_collection 7,0,1,9,0
+collection 7,steph,4,maids of honour,8,1,NA,1,collection 74,0.8257228238447705,0.7777777777777779,3,0,0,1,0,0,1.2995906936517247,1,0,0,0,steph_collection 7,0,1,NA,0
+collection 7,alice,5,beignet souffle,3,6,NA,1,collection 75,-0.7302967433402214,0.25,1,1,0,0,0,0,-0.3745424791975895,0.3795379537953796,0,0,0,alice_collection 7,0,1,NA,0
+collection 7,david,5,beignet souffle,7,9,NA,1,collection 75,0.7302967433402214,0.75,3,0,0,1,0,0,-1.379022382907178,0.14356435643564358,0,0,0,david_collection 7,1,1,NA,0
+collection 7,helena,5,beignet souffle,8,1,NA,1,collection 75,1.0954451150103321,0.875,4,0,0,0,1,0,1.2995906936517247,1,0,0,0,helena_collection 7,0,1,5,1
+collection 7,henry,5,beignet souffle,9,3,NA,1,collection 75,1.4605934866804429,1,4,0,0,0,1,0,0.629937424511999,0.7343234323432344,0,1,0,henry_collection 7,0,1,8,0
+collection 7,michael,5,beignet souffle,4,8,NA,1,collection 75,-0.3651483716701107,0.375,2,0,1,0,0,0,-1.0441957483373152,0.20792079207920788,0,0,1,michael_collection 7,1,1,7,0
+collection 7,michelle,5,beignet souffle,2,7,NA,1,collection 75,-1.0954451150103321,0.125,1,1,0,0,0,0,-0.7093691137674523,0.28712871287128716,0,0,0,michelle_collection 7,1,1,5,1
+collection 7,priya,5,beignet souffle,1,2,NA,1,collection 75,-1.4605934866804429,0,1,1,0,0,0,0,0.9647640590818618,0.8679867986798679,1,0,0,priya_collection 7,0,1,6,0
+collection 7,rosie,5,beignet souffle,5,5,NA,1,collection 75,0,0.5,2,0,1,0,0,0,-0.03971584462772664,0.48679867986798675,0,0,1,rosie_collection 7,0,1,9,0
+collection 7,steph,5,beignet souffle,6,4,NA,1,collection 75,0.3651483716701107,0.625,3,0,0,1,0,0,0.2951107899421362,0.6039603960396039,0,0,1,steph_collection 7,0,1,NA,0
+collection 7,alice,6,verrines,7,1,NA,1,collection 76,1.3887301496588271,0.9999999999999999,4,0,0,0,1,0,1.2995906936517247,1,0,1,0,alice_collection 7,0,1,NA,0
+collection 7,david,6,verrines,1,2,NA,1,collection 76,-1.3887301496588271,0,1,1,0,0,0,0,0.9647640590818618,0.8679867986798679,1,0,0,david_collection 7,0,1,NA,0
+collection 7,henry,6,verrines,6,4,NA,1,collection 76,0.9258200997725514,0.8333333333333333,3,0,0,1,0,0,0.2951107899421362,0.6039603960396039,0,0,0,henry_collection 7,0,1,8,0
+collection 7,michael,6,verrines,4,6,NA,1,collection 76,0,0.5,2,0,1,0,0,0,-0.3745424791975895,0.3795379537953796,0,0,1,michael_collection 7,1,1,7,0
+collection 7,priya,6,verrines,5,7,NA,1,collection 76,0.4629100498862757,0.6666666666666666,3,0,0,1,0,0,-0.7093691137674523,0.28712871287128716,0,0,1,priya_collection 7,1,1,6,1
+collection 7,rosie,6,verrines,3,5,NA,1,collection 76,-0.4629100498862757,0.3333333333333333,2,0,1,0,0,0,-0.03971584462772664,0.48679867986798675,0,0,0,rosie_collection 7,0,1,9,0
+collection 7,steph,6,verrines,2,3,NA,1,collection 76,-0.9258200997725514,0.16666666666666666,1,1,0,0,0,0,0.629937424511999,0.7343234323432344,0,0,0,steph_collection 7,0,1,NA,0
+collection 7,alice,7,sicillian cassatelles,3,6,NA,1,collection 77,-0.2672612419124244,0.4,2,0,1,0,0,0,-0.3745424791975895,0.3795379537953796,0,0,1,alice_collection 7,1,1,NA,0
+collection 7,david,7,sicillian cassatelles,1,2,NA,1,collection 77,-1.3363062095621219,0,1,1,0,0,0,0,0.9647640590818618,0.8679867986798679,1,0,0,david_collection 7,0,1,NA,0
+collection 7,henry,7,sicillian cassatelles,6,3,NA,1,collection 77,1.3363062095621219,1,4,0,0,0,1,0,0.629937424511999,0.7343234323432344,0,1,0,henry_collection 7,0,1,8,0
+collection 7,michael,7,sicillian cassatelles,4,5,NA,1,collection 77,0.2672612419124244,0.6000000000000001,3,0,0,1,0,0,-0.03971584462772664,0.48679867986798675,0,0,1,michael_collection 7,1,1,7,1
+collection 7,rosie,7,sicillian cassatelles,2,1,NA,1,collection 77,-0.8017837257372732,0.2,1,1,0,0,0,0,1.2995906936517247,1,0,0,0,rosie_collection 7,0,1,9,0
+collection 7,steph,7,sicillian cassatelles,5,4,NA,1,collection 77,0.8017837257372732,0.8,3,0,0,1,0,0,0.2951107899421362,0.6039603960396039,0,0,0,steph_collection 7,0,1,NA,0
+collection 7,alice,8,moroccan pie,4,3,NA,0,collection 78,0.6324555320336759,0.75,3,0,0,1,0,0,0.629937424511999,0.7343234323432344,0,0,1,alice_collection 7,0,1,NA,0
+collection 7,david,8,moroccan pie,5,1,NA,0,collection 78,1.2649110640673518,1,4,0,0,0,1,0,1.2995906936517247,1,0,1,0,david_collection 7,0,1,NA,0
+collection 7,henry,8,moroccan pie,3,5,NA,0,collection 78,0,0.5,2,0,1,0,0,0,-0.03971584462772664,0.48679867986798675,0,0,1,henry_collection 7,1,1,8,1
+collection 7,rosie,8,moroccan pie,1,2,NA,0,collection 78,-1.2649110640673518,0,1,1,0,0,0,0,0.9647640590818618,0.8679867986798679,1,0,0,rosie_collection 7,0,1,9,0
+collection 7,steph,8,moroccan pie,2,4,NA,0,collection 78,-0.6324555320336759,0.25,1,1,0,0,0,0,0.2951107899421362,0.6039603960396039,0,0,0,steph_collection 7,0,1,NA,0
+collection 7,alice,9,gateau saint honore,3,4,NA,1,collection 79,0.3872983346207417,0.6666666666666666,3,0,0,1,0,0,0.2951107899421362,0.6039603960396039,0,0,1,alice_collection 7,1,1,NA,0
+collection 7,david,9,gateau saint honore,1,2,NA,1,collection 79,-1.161895003862225,0,1,1,0,0,0,0,0.9647640590818618,0.8679867986798679,1,0,0,david_collection 7,0,1,NA,0
+collection 7,rosie,9,gateau saint honore,4,1,NA,1,collection 79,1.161895003862225,1,4,0,0,0,1,0,1.2995906936517247,1,0,1,0,rosie_collection 7,0,1,9,1
+collection 7,steph,9,gateau saint honore,2,3,NA,1,collection 79,-0.3872983346207417,0.3333333333333333,2,0,1,0,0,0,0.629937424511999,0.7343234323432344,0,0,0,steph_collection 7,0,1,NA,0
+collection 7,alice,10,stilton souffles,1,2,NA,0,collection 710,-1,0,1,1,0,0,0,0,0.9647640590818618,0.8679867986798679,1,0,0,alice_collection 7,0,1,NA,0
+collection 7,david,10,stilton souffles,3,1,NA,0,collection 710,1,1,3,0,0,1,0,0,1.2995906936517247,1,0,1,0,david_collection 7,0,1,NA,0
+collection 7,steph,10,stilton souffles,2,3,NA,0,collection 710,0,0.5,2,0,1,0,0,0,0.629937424511999,0.7343234323432344,0,0,1,steph_collection 7,1,1,NA,0
