@@ -13,6 +13,7 @@ options(scipen = 999)
 gbbo <- read_sheet("https://docs.google.com/spreadsheets/d/16DptWY0S9bpmB0HQE91tgKH_9ZpXXPBaSfEVVSzRkpk/edit?ts=5f5d6a4e#gid=0")
 
 cleanit <- gbbo %>% 
+  mutate(week = as.character(week)) %>% 
   select(1:8) %>% 
   mutate(order_judged = as.integer(order_judged)) %>% 
   mutate(placement = as.integer(placement)) %>% 
@@ -125,7 +126,7 @@ working %>%
 # by week
 working %>% 
   group_by(week, order_judged) %>% 
-  summarise()
+  summarise() %>% 
   ggplot(., aes(x = order_judged, y = placement)) + geom_point() +
   xlab("Order Judged") +
   ylab("Placement") + 
