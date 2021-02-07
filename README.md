@@ -1,8 +1,7 @@
 ---
 title: "Primacy vs. Recency in the Great British Bake Off"
 output: github_document
-html_preview: true
-always_allow_html: true
+html_preview: false
 ---
 
 ```{r setup, echo=FALSE, include=FALSE}
