@@ -102,7 +102,7 @@ The technical challenge is the only one of the three weekly events that features
 We hypothesized that being judged earlier would be better. Previous tests of these effects focus on memory. But with GBBO, another factor comes into play: hunger. Judges must eat a lot of baked goods, especially in early weeks with more contestants. Perhaps the 12th bite of a pastry -- no matter how delicious -- would not as satisfying as the first, disadvantaging bakers judged earlier. Then again, maybe they have forgotten how good that first bite was once they have had 11 more tastes. The judges have mentioned this on several occasions:
 
 ```{r echo=FALSE, out.width='60%'}
-knitr::include_graphics(path.expand('~/GBBO/e02_gbbo_files/stop.jpg'))
+knitr::include_graphics('e02_gbbo_files/stop.jpg')
 ```
 
 

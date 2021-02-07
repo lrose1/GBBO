@@ -36,7 +36,7 @@ first, disadvantaging bakers judged earlier. Then again, maybe they have
 forgotten how good that first bite was once they have had 11 more
 tastes. The judges have mentioned this on several occasions:
 
-<img src="/Users/liamrose/Documents/GBBO/e02_gbbo_files/stop.jpg" width="60%" />
+<img src="e02_gbbo_files/stop.jpg" width="60%" />
 
 ## Results
 
