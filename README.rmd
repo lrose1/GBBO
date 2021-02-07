@@ -1,6 +1,6 @@
 ---
 title: "Primacy vs. Recency in the Great British Bake Off"
-output: html_document
+output: github_document
 html_preview: true
 always_allow_html: true
 ---
