@@ -23,11 +23,11 @@ cleanit <- gbbo %>%
   mutate(order_judged_prank = percent_rank(order_judged)) %>% 
   mutate(order_judged_quartile = ntile(order_judged, n = 4)) %>% 
   dummy_cols(., select_columns ="order_judged_quartile") %>% 
+  group_by(week_id) %>%
   mutate(placement_std = scale(placement)) %>% 
   mutate(placement_std = ifelse(placement_std >0, 0- placement_std, abs(placement_std))) %>% 
   mutate(placement_prank = 1- percent_rank(placement)) %>% 
   mutate(judged_first = ifelse(order_judged == 1, 1,0)) %>% 
-  group_by(week_id) %>%
   mutate(judged_last = ifelse(order_judged == max(order_judged), 1,0)) %>% 
   mutate(judged_middle = ifelse(ntile(order_judged, n = 3) == 2, 1, 0)) %>% 
   mutate(baker_id = paste0(baker, "_",season)) %>% 
@@ -54,8 +54,16 @@ working <- cleanit %>%
   left_join(allbaker_ids1) %>% 
   mutate(week_out2 = case_when(week == week_out ~ 1,
                                week != week_out ~ 0, 
-                               is.na(week_out) ~ 0 )) 
+                               is.na(week_out) ~ 0 )) %>% ungroup()
 write_csv(working, "~/Documents/GBBO/Data/working.csv")
+
+# test
+cleanit %>% 
+  group_by(week) %>% 
+  summarise(place = mean(placement_prank, na.rm=T), placement_std = mean(placement_std, na.rm=T))
+working %>% 
+  group_by(week) %>% 
+  summarise(place = mean(placement_prank, na.rm=T), placement_std = mean(placement_std, na.rm=T))
 
 #### figures ####
 
@@ -66,13 +74,29 @@ working %>%
   ggplot(., aes(x = order_judged, y = placement)) + geom_point() +
   xlab("Order Judged") +
   ylab("Placement") + 
+  stat_smooth(geom = 'line', method = "lm", se = F, colour = "firebrick", alpha = 0.8) + 
   theme_pubclean()
 
 # standardized within week  
 working %>% 
-  group_by(order_judged_std) %>% 
-  summarise(placement = mean(placement_std, na.rm=T)) %>% 
-  ggplot(., aes(x = order_judged_std, y = placement)) + geom_point() +
+  group_by(order_judged) %>% 
+  summarise(placement = mean(placement_std, na.rm=T), sd = sd(placement_std, na.rm=T)) %>% 
+  ggplot(., aes(x = order_judged, y = placement)) + geom_point() +
+  geom_errorbar(ymin = placement - sd, ymax = placement + sd) +
+  xlab("Order Judged") +
+  ylab("Placement") + 
+  theme_pubclean()
+
+library(ggdist)
+working %>% 
+  filter(!is.na(order_judged)) %>% 
+  filter(order_judged <13) %>% 
+  # group_by(order_judged) %>% 
+  # summarise(placement = mean(placement_std, na.rm=T), sd = sd(placement_std, na.rm=T)) %>% 
+  ggplot(., aes(x = order_judged, y = placement, group = as.factor(order_judged), 
+                colour = as.factor(order_judged))) +
+  geom_jitter() +
+  stat_slab(alpha = 0.3) +
   xlab("Order Judged") +
   ylab("Placement") + 
   theme_pubclean()
@@ -85,10 +109,22 @@ working %>%
   ggplot(., aes(x = bins, y = placement)) + geom_point() +
   xlab("Order Judged") +
   ylab("Placement") + 
+  stat_smooth(geom = 'line', method = "lm", se = F, colour = "firebrick", alpha = 0.8) + 
   theme_pubclean()
+
+working %>% 
+  mutate(bins = ntile(x = order_judged_std, n=10)) %>% 
+  group_by(bins) %>%
+  summarise(placement = mean(placement_prank, na.rm=T)) %>% 
+  ggplot(., aes(x = bins, y = placement)) + geom_point() +
+  xlab("Order Judged (10 bins)") +
+  ylab("Placement (Percentile)") + 
+  stat_smooth(geom = 'line', method = "lm", se = F, colour = "firebrick", alpha = 0.8) + 
+  theme_pubclean()
+
 #percent rank
 working %>% 
-  mutate(bins = ntile(x = order_judged_prank, n = 5)) %>% 
+  mutate(bins = ntile(x = order_judged_prank, n = 4)) %>% 
   ggplot(., aes(x = bins, y = placement_prank, group=bins)) + geom_boxplot() +
   xlab("Order Judged") +
   ylab("Placement") + 
@@ -111,11 +147,12 @@ working %>%
   group_by(bins) %>%
   summarise(placement = mean(week_out2, na.rm=T)) %>% 
   ggplot(., aes(x = bins, y = placement)) + geom_point() +
-  xlab("Order Judged N-tile") +
+  stat_smooth(geom = 'line', method = "lm", se = F, colour = "firebrick", alpha = 0.8) + 
+  xlab("Order Judged") +
   ylab("Likelihood of leaving") + 
   theme_pubclean()
 
-# does placement matter? Yes
+# does placement matter in general? Yes
 tidy(lm_robust(week_out2 ~ placement_prank, data=working))
 working %>% 
   mutate(bins = ntile(x = placement_prank, n = 10)) %>% 
@@ -126,12 +163,59 @@ working %>%
 # by week
 working %>% 
   group_by(week, order_judged) %>% 
-  summarise() %>% 
+  summarise(placement = mean(placement_std, na.rm=T)) %>% 
   ggplot(., aes(x = order_judged, y = placement)) + geom_point() +
   xlab("Order Judged") +
   ylab("Placement") + 
   theme_pubclean() +
-  facet_grid(~week)
+  facet_wrap(~week,nrow = 3)
+
+# combine weeks
+working %>% 
+  mutate(week_group = case_when(week== "1" | week == "2" | week =="3" | week == "4" ~ "1-4",
+                                week== "5" | week == "6" | week =="7" ~ "5-7", 
+                                week== "8" | week == "9" | week =="10" ~ "8-10")) %>% 
+  group_by(week_group, order_judged) %>% 
+  summarise(placement = mean(placement_prank, na.rm=T)) %>% 
+  ggplot(., aes(x = order_judged, y = placement)) + geom_point() +
+  xlab("Order Judged") +
+  ylab("Placement") + 
+  stat_smooth(geom = 'line', method = "lm", se = F, colour = "firebrick", alpha = 0.8) + 
+  theme_pubclean() +
+  facet_wrap(~week_group,nrow = 3)
+
+# combine weeks pt 2
+working %>% 
+  mutate(week_group = case_when(week== "1" | week == "2" | week =="3" | week == "4" ~ "1-4",
+                                week== "5" | week == "6" | week =="7" |
+                                week== "8" | week == "9" | week =="10" ~ "5-10")) %>% 
+  filter(!is.na(week_group)) %>% 
+  mutate(bins = ntile(x = order_judged_std, n=6)) %>% 
+  group_by(bins, week_group) %>% 
+  summarise(placement = mean(placement_prank, na.rm=T)) %>% 
+  ggplot(., aes(x = bins, y = placement)) + geom_point() +
+  xlab("Order Judged") +
+  ylab("Placement (Percentile)") + 
+  stat_smooth(geom = 'line', method = "lm", se = F, colour = "firebrick", alpha = 0.8) + 
+  theme_pubclean() +
+  facet_wrap(~week_group,nrow = 1)
+
+
+working %>% 
+  mutate(week_group = case_when(week== "1" | week == "2" | week =="3" | week == "4" ~ "1-4",
+                                week== "5" | week == "6" | week =="7" |
+                                  week== "8" | week == "9" | week =="10" ~ "5-10")) %>% 
+  filter(!is.na(week_group)) %>% 
+  # filter(week <9) %>% 
+  mutate(bins = ntile(x = order_judged_std, n=10)) %>% 
+  group_by(week_group, bins) %>%
+  summarise(placement = mean(week_out2, na.rm=T)) %>% 
+  ggplot(., aes(x = bins, y = placement)) + geom_point() +
+  xlab("Order Judged") +
+  ylab("Probability of Leaving") + 
+  stat_smooth(geom = 'line', method = "lm", se = F, colour = "firebrick", alpha = 0.8) + 
+  theme_pubclean() +
+  facet_wrap(~week_group,nrow = 1)
 
 #### regressions ####
 
